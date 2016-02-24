@@ -64,7 +64,7 @@
             vm.loadData = null;
         };
 
-        $http.get('/monsters.json').then(function(res) {
+        $http.get('monsters.json').then(function(res) {
             vm.monsters = res.data;
 
             vm.zones = {};
