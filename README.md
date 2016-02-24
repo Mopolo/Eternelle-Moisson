@@ -1,6 +1,11 @@
 # L'Éternelle moisson (Dofus)
 Un outil pour gérer la quête du [Dofus](http://dofus.com) Ocre pour le jeu du même nom.
 
+## Versions
+L'outil est actuellement en beta.
+
+Une liste des fonctionnalités prévues est disponible ici : https://github.com/Mopolo/Eternelle-Moisson/milestones/Version%201
+
 ## Utilisation
 Il est utilisable soit en ligne : http://mopolo.github.io/Eternelle-Moisson
 
