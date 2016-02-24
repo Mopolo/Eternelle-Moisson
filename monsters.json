@@ -1,0 +1,6081 @@
+[
+    {
+        "id": 1,
+        "name": "Souris Grise",
+        "zones": [
+            "Cryptes"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 2,
+        "name": "Moskito",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Pandala"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 3,
+        "name": "Arakne",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Pandala"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 4,
+        "name": "Boufton Blanc",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Tain\u00e9la"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 5,
+        "name": "Boufton Noir",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Tain\u00e9la"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 6,
+        "name": "Tofu Mal\u00e9fique",
+        "zones": [
+            "Cimeti\u00e8res"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 7,
+        "name": "Arakne Malade",
+        "zones": [
+            "Souterrains d'Astrub"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 8,
+        "name": "Piou Bleu",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 9,
+        "name": "Piou Jaune",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 10,
+        "name": "Piou Rouge",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 11,
+        "name": "Piou Vert",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 12,
+        "name": "Piou Violet",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 13,
+        "name": "Piou Rose",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 14,
+        "name": "Flamm\u00e8che Air",
+        "zones": [
+            "Plaine des Scarafeuilles",
+            "Nids des Kwaks"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 15,
+        "name": "Flamm\u00e8che Eau",
+        "zones": [
+            "Plaine des Scarafeuilles",
+            "Nids des Kwaks"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 16,
+        "name": "Flamm\u00e8che Feu",
+        "zones": [
+            "Plaine des Scarafeuilles",
+            "Nids des Kwaks"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 17,
+        "name": "Flamm\u00e8che Terre",
+        "zones": [
+            "Plaine des Scarafeuilles",
+            "Nids des Kwaks"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 18,
+        "name": "Larve Bleue",
+        "zones": [
+            "Un peu partout"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 19,
+        "name": "Crabe",
+        "zones": [
+            "Zone du Port de Madrestam",
+            "Rivages de Sufokia"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 20,
+        "name": "Tofu",
+        "zones": [
+            "Amakna",
+            "Astrub"
+        ],
+        "step": 1,
+        "type": "monster"
+    },
+    {
+        "id": 21,
+        "name": "Tofu Malade",
+        "zones": [
+            "Souterrains d'astrub"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 22,
+        "name": "Champ Champ",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Champs de Cania",
+            "Tain\u00e9la"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 23,
+        "name": "Pissenlit Diabolique",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Champs de Cania",
+            "Tain\u00e9la"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 24,
+        "name": "Arakne Agressive",
+        "zones": [
+            "Foret des Abraknydes",
+            "Amakna",
+            "Abords du Zaap \"bord de la for\u00eat mal\u00e9fique\""
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 25,
+        "name": "Bandit Manchot",
+        "zones": [
+            "Astrub",
+            "Passage vers Br\u00e2kmar"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 26,
+        "name": "Rose D\u00e9moniaque",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Champs de Cania",
+            "Tain\u00e9la"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 27,
+        "name": "Gel\u00e9e Bleue",
+        "zones": [
+            "P\u00e9ninsule des Gel\u00e9es",
+            "Gelaxi\u00e8me dimension"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 28,
+        "name": "Gel\u00e9e Menthe",
+        "zones": [
+            "P\u00e9ninsule des Gel\u00e9es",
+            "Gelaxi\u00e8me dimension"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 29,
+        "name": "Kwoan",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 30,
+        "name": "Larve verte",
+        "zones": [
+            "Un peu partout"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 31,
+        "name": "Bouftou",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Tain\u00e9la"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 32,
+        "name": "Kol\u00e9rat",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 33,
+        "name": "Larve Orange",
+        "zones": [
+            "Un peu partout"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 34,
+        "name": "Boulanger Sombre",
+        "zones": [
+            "Fa\u00e7ade de Brakm\u00e2r",
+            "Territoire des Bandits"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 35,
+        "name": "Black Tiwabbit",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 36,
+        "name": "Tiwabbit",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 37,
+        "name": "Tiwabbit Kiafin",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 38,
+        "name": "Tournesol Sauvage",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Champs de Cania"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 39,
+        "name": "Bandit du clan des Roublards",
+        "zones": [
+            "Territoire des Bandits"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 40,
+        "name": "Gobelin",
+        "zones": [
+            "Campement des Bworks",
+            "Village d\u00e9vast\u00e9 de Gisgoul"
+        ],
+        "step": 2,
+        "type": "monster"
+    },
+    {
+        "id": 41,
+        "name": "NodKoko",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 42,
+        "name": "Tikokoko",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 43,
+        "name": "Trukikol",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 44,
+        "name": "Sanglier",
+        "zones": [
+            "Amakna",
+            "Astrub"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 45,
+        "name": "Champa Vert",
+        "zones": [
+            "Clairi\u00e8re de Bruce Boulgour",
+            "Amakna",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 46,
+        "name": "Citwouille",
+        "zones": [
+            "Labyrinthe du DV"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 47,
+        "name": "Vampire",
+        "zones": [
+            "Cimeti\u00e8res d'Amakna",
+            "Bonta",
+            "Brakm\u00e2r",
+            "Cryptes"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 48,
+        "name": "Biblop Coco",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 49,
+        "name": "Biblop Griotte",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 50,
+        "name": "Biblop Indigo",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 51,
+        "name": "Biblop Reinette",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 52,
+        "name": "Chevaucheur de Karne",
+        "zones": [
+            "Campement des Bworks",
+            "Amakna"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 53,
+        "name": "Milirat d'Egoutant malade",
+        "zones": [
+            "Souterrains d'Astrub"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 54,
+        "name": "Boo",
+        "zones": [
+            "Coin des Boos",
+            "Mar\u00e9cages"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 55,
+        "name": "Prespic",
+        "zones": [
+            "Amakna",
+            "Astrub"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 56,
+        "name": "Cochon de Lait",
+        "zones": [
+            "Presqu'\u00eele des Porcos"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 57,
+        "name": "Tortue Jaune",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 58,
+        "name": "Wabbit",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 59,
+        "name": "Chef de Guerre Bouftou",
+        "zones": [
+            "Amakna",
+            "Astrub"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 60,
+        "name": "Berger Porkass",
+        "zones": [
+            "Territoire des Porkass",
+            "Plaine de Cania"
+        ],
+        "step": 3,
+        "type": "monster"
+    },
+    {
+        "id": 61,
+        "name": "Croc Gland",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 62,
+        "name": "Bulbambou",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 63,
+        "name": "Tortue Bleue",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 64,
+        "name": "Tortue rouge",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 65,
+        "name": "Tortue Verte",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 66,
+        "name": "Corbac",
+        "zones": [
+            "P\u00e9nates des Corbac",
+            "Lande de Sidimote",
+            "Plaine de Cania"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 67,
+        "name": "Etoile de la Mer d'Asse",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 68,
+        "name": "Pichon Blanc",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 69,
+        "name": "Pichon Bleu",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 70,
+        "name": "Pichon Orange",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 71,
+        "name": "Pichon Vert",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 72,
+        "name": "Bambouto",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 73,
+        "name": "Ma\u00eetre Vampire",
+        "zones": [
+            "Cimeti\u00e8res de Bonta",
+            "Brakm\u00e2r",
+            "Cryptes"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 74,
+        "name": "Minoskito",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 75,
+        "name": "Noeul",
+        "zones": [
+            "Labyrinthe du DV"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 76,
+        "name": "Milimulou",
+        "zones": [
+            "Amakna",
+            "Bois de Litneg"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 77,
+        "name": "Fourbasse",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 78,
+        "name": "Bulbiflore",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 79,
+        "name": "Bwork Mage",
+        "zones": [
+            "Campement des Bworks"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 80,
+        "name": "Croc Gland enrag\u00e9",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 4,
+        "type": "monster"
+    },
+    {
+        "id": 81,
+        "name": "Rose Obscure",
+        "zones": [
+            "Champs des Ingalsses"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 82,
+        "name": "Black Wabbit",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 83,
+        "name": "Mineur Sombre",
+        "zones": [
+            "Fa\u00e7ade de Brakm\u00e2r",
+            "Territoire des Bandits"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 84,
+        "name": "Bwork Archer",
+        "zones": [
+            "Campement des Bworks"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 85,
+        "name": "Champa Bleu",
+        "zones": [
+            "Clairi\u00e8re des Bruce Boulgour",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 86,
+        "name": "Champa Marron",
+        "zones": [
+            "Clairi\u00e8re des Bruce Boulgour",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 87,
+        "name": "Champa Rouge",
+        "zones": [
+            "Clairi\u00e8re des Bruce Boulgour",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 88,
+        "name": "Craqueboule",
+        "zones": [
+            "Astrub",
+            "Amakna"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 89,
+        "name": "Mandrine",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 90,
+        "name": "Kitsou Nakwa",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 91,
+        "name": "Gargrouille",
+        "zones": [
+            "Le champs du Repos"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 92,
+        "name": "Dragodinde Amande Sauvage",
+        "zones": [
+            "Montagne des koalaks"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 93,
+        "name": "Gel\u00e9e Fraise",
+        "zones": [
+            "P\u00e9ninsule des Gel\u00e9es"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 94,
+        "name": "Wabbit Squelette",
+        "zones": [
+            "\u00cele des Wabbits > \u00eele du nord-ouest"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 95,
+        "name": "Chafer Invisible",
+        "zones": [
+            "Cimeti\u00e8res"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 96,
+        "name": "Craqueleur",
+        "zones": [
+            "Amakna"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 97,
+        "name": "Bwork",
+        "zones": [
+            "Campement des Bworks"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 98,
+        "name": "Abraknyde",
+        "zones": [
+            "For\u00eat des Abraknydes",
+            "Tain\u00e9la",
+            "Amakna"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 99,
+        "name": "Kram\u00e9l\u00e9hon",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 5,
+        "type": "monster"
+    },
+    {
+        "id": 100,
+        "name": "Scarafeuille Blanc",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 101,
+        "name": "Scarafeuille Bleu",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 102,
+        "name": "Scarafeuille Rouge",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 103,
+        "name": "Scarafeuille Vert",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 104,
+        "name": "Rib",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna",
+            "Bonta"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 105,
+        "name": "Blop Coco",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 106,
+        "name": "Blop Griotte",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 107,
+        "name": "Blop Indigo",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 108,
+        "name": "Blop Reinette",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 109,
+        "name": "Cochon de Farle",
+        "zones": [
+            "Labyrinthe",
+            "Donjon du Dragon Cochon"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 110,
+        "name": "Scaratos",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 111,
+        "name": "Boomba",
+        "zones": [
+            "la jungle de Moon"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 112,
+        "name": "Tronknyde",
+        "zones": [
+            "For\u00eat des Abraknydes\/sombres"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 113,
+        "name": "Chafer Fantassin",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 114,
+        "name": "Pichon Kloune",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Plage de Cania",
+            "Calanques d'Astrub"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 115,
+        "name": "Abrakne",
+        "zones": [
+            "For\u00eat des Abraknydes\/sombres"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 116,
+        "name": "Chafer",
+        "zones": [
+            "Cimeti\u00e8res"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 117,
+        "name": "Crocodaille",
+        "zones": [
+            "Mar\u00e9cages"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 118,
+        "name": "Rat d'Egoutant malade",
+        "zones": [
+            "Grotte d'Astrub"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 119,
+        "name": "Scorbute",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 6,
+        "type": "monster"
+    },
+    {
+        "id": 120,
+        "name": "Dragodinde Rousse Sauvage",
+        "zones": [
+            "Territoire des Dragodindes",
+            "montagne des Koalaks"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 121,
+        "name": "Forgeron Sombre",
+        "zones": [
+            "Fa\u00e7ade de Br\u00e2kmar",
+            "Territoire des Bandits"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 122,
+        "name": "Crustorail Koura\u00e7ao",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 123,
+        "name": "Crustorail Malibout",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 124,
+        "name": "Crustorail Morito",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 125,
+        "name": "Crustorail Passaoh",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 126,
+        "name": "Bulbuisson",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 127,
+        "name": "Arakne Majeure",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "Br\u00e2kmar",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 128,
+        "name": "Araknawa",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 129,
+        "name": "Grand Pa Wabbit",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 130,
+        "name": "Wo Wabbit",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 131,
+        "name": "Cavalier Porkass",
+        "zones": [
+            "Plaine des Porkass"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 132,
+        "name": "Aboub",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 133,
+        "name": "Amlub",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 134,
+        "name": "Codem",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 135,
+        "name": "Gink",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 136,
+        "name": "Kirevam",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 137,
+        "name": "Let Emoliug",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 138,
+        "name": "Nebgib",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 139,
+        "name": "Nipul",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 7,
+        "type": "monster"
+    },
+    {
+        "id": 140,
+        "name": "Osurc",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 141,
+        "name": "Susej",
+        "zones": [
+            "Territoire des Dopeuls"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 142,
+        "name": "Kokoko",
+        "zones": [
+            "Plage de Moon"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 143,
+        "name": "Chafer Archer",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna",
+            "Cimeti\u00e8re de Bonta",
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 144,
+        "name": "Chafer Lancier",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna",
+            "Cimeti\u00e8re de Bonta",
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 145,
+        "name": "DoK Alako",
+        "zones": [
+            "Canyon Sauvage",
+            "Lacs Enchant\u00e9s"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 146,
+        "name": "Koalak Immature",
+        "zones": [
+            "For\u00eat de Kaliptus",
+            "Lacs enchant\u00e9s"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 147,
+        "name": "Gamino",
+        "zones": [
+            "Labyrinthe du Minotoror"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 148,
+        "name": "Chaman d'Egoutant",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "de Br\u00e2kmar",
+            "Souterrains d'Astrub"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 149,
+        "name": "Le Ouassingue Entourb\u00e9",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai",
+            "Champ du repos"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 150,
+        "name": "Le Ouassingue",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai",
+            "Champ du repos"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 151,
+        "name": "La Ouassingue",
+        "zones": [
+            "Champ du repos"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 152,
+        "name": "Palmifleur Malibout",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 153,
+        "name": "Palmifleur Morito",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 154,
+        "name": "Palmifleur Passaoh",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 155,
+        "name": "Sanglier Des Plaines",
+        "zones": [
+            "For\u00eat de Cania"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 156,
+        "name": "Abraknyde V\u00e9n\u00e9rable",
+        "zones": [
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 157,
+        "name": "Craqueleur des plaines",
+        "zones": [
+            "Massifs de Cania"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 158,
+        "name": "Pandit",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 159,
+        "name": "Chafer d'\u00e9lite",
+        "zones": [
+            "Cimeti\u00e8re de Bonta",
+            "Cimeti\u00e8res de Br\u00e2kmar"
+        ],
+        "step": 8,
+        "type": "monster"
+    },
+    {
+        "id": 160,
+        "name": "Ma\u00eetre Bolet",
+        "zones": [
+            "Champs de Cania"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 161,
+        "name": "Craqueboule Poli",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 162,
+        "name": "Pandikaze",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 163,
+        "name": "Kanniboul Archer",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 164,
+        "name": "Kanniboul Jav",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 165,
+        "name": "Kanniboul Sarbak",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 166,
+        "name": "Kanniboul Thierry",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 167,
+        "name": "Pandalette Ivre",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 168,
+        "name": "Rat d'Egoutant",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "de Br\u00e2kmar",
+            "Souterrains d'Astrub"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 169,
+        "name": "Palmifleur Koura\u00e7ao",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 170,
+        "name": "Ouginak",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 171,
+        "name": "DragOeuf Blanc immature",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 172,
+        "name": "DragOeuf Dor\u00e9 immature",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 173,
+        "name": "DragOeuf Noir immature",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 174,
+        "name": "DragOeuf de saphir immature",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 175,
+        "name": "Dragoss Blanc",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 176,
+        "name": "Dragoss Dor\u00e9",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 177,
+        "name": "Dragoss Noir",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 178,
+        "name": "Dragoss de saphir",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 179,
+        "name": "L\u00e9opardo",
+        "zones": [
+            "Feudala"
+        ],
+        "step": 9,
+        "type": "monster"
+    },
+    {
+        "id": 180,
+        "name": "Serpiplume",
+        "zones": [
+            "Labyrinthe du Minotoror"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 181,
+        "name": "Corailleur",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 182,
+        "name": "Kitsou Nae",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 183,
+        "name": "Raul Mops",
+        "zones": [
+            "Baie de Cania"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 184,
+        "name": "Pandawa Ivre",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 185,
+        "name": "Cooleuvre",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 186,
+        "name": "Coquille Explosive",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 187,
+        "name": "Canon Dorf",
+        "zones": [
+            "B\u00e2teau du Chouque",
+            "donjon de l'Arche d'Otomai"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 188,
+        "name": "Nakunbra",
+        "zones": [
+            "B\u00e2teau du Chouque",
+            "donjon de l'Arche d'Otomai"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 189,
+        "name": "Don Duss Ang",
+        "zones": [
+            "Labyrinthe du Dragon Cochon"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 190,
+        "name": "DragOeuf Blanc",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 191,
+        "name": "DragOeuf Dor\u00e9",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 192,
+        "name": "DragOeuf Noir",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 193,
+        "name": "DragOeuf de saphir",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 194,
+        "name": "Koalak Coco",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 195,
+        "name": "Koalak Griotte",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 196,
+        "name": "Koalak Indigo",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 197,
+        "name": "Koalak Reinette",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 198,
+        "name": "Rat d'Hyoactif",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "de Br\u00e2kmar"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 199,
+        "name": "Sparo",
+        "zones": [
+            "Arche d'Otomai"
+        ],
+        "step": 10,
+        "type": "monster"
+    },
+    {
+        "id": 200,
+        "name": "Chiendent",
+        "zones": [
+            "Jungle Obcure"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 201,
+        "name": "Fant\u00f4me Apero",
+        "zones": [
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 202,
+        "name": "Fant\u00f4me Ardent",
+        "zones": [
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 203,
+        "name": "Fant\u00f4me Arepo",
+        "zones": [
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 204,
+        "name": "Fant\u00f4me Brave",
+        "zones": [
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 205,
+        "name": "Don Dorgan",
+        "zones": [
+            "Labyrinthe du Dragon Cochon"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 206,
+        "name": "Barbroussa",
+        "zones": [
+            "Arche d'Otomai"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 207,
+        "name": "Le Flib",
+        "zones": [
+            "Arche d'Otomai"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 208,
+        "name": "Nerbe",
+        "zones": [
+            "Jungle Obscure"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 209,
+        "name": "Chef Crocodaile",
+        "zones": [
+            "Les marais"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 210,
+        "name": "Serpentin",
+        "zones": [
+            "Plaines de Cania"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 211,
+        "name": "Kanigrou",
+        "zones": [
+            "Plaines de Cania"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 212,
+        "name": "Bitouf des plaines",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 213,
+        "name": "Craqueleur poli",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 214,
+        "name": "Mufafah",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 215,
+        "name": "Mulou",
+        "zones": [
+            "Bois de Litneg"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 216,
+        "name": "Pandule",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 217,
+        "name": "Kido",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 218,
+        "name": "Kilibriss",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 219,
+        "name": "Dragoeuf blanc \u00e9veill\u00e9",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 11,
+        "type": "monster"
+    },
+    {
+        "id": 220,
+        "name": "Dragoeuf dor\u00e9 \u00e9veill\u00e9",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 221,
+        "name": "Dragoeuf noir \u00e9veill\u00e9",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 222,
+        "name": "Dragoeuf de saphir \u00e9veill\u00e9",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 223,
+        "name": "Dragueuse",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 224,
+        "name": "Guerrier koalak",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 225,
+        "name": "Braconnier",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 226,
+        "name": "Oni",
+        "zones": [
+            "For\u00eat mal\u00e9fique"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 227,
+        "name": "Warko marron",
+        "zones": [
+            "For\u00eat de Kaliptus",
+            "Canyon Sauvage"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 228,
+        "name": "Kitsou nere",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 229,
+        "name": "Abraknyde sombre",
+        "zones": [
+            "For\u00eat des Abraknydes sombres"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 230,
+        "name": "Bulbig",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 231,
+        "name": "Fossoyeur koalak",
+        "zones": [
+            "Cimeti\u00e8re primitif"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 232,
+        "name": "Koalak forestier",
+        "zones": [
+            "For\u00eat de Kaliptus"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 233,
+        "name": "Piralak",
+        "zones": [
+            "Lacs enchant\u00e9s"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 234,
+        "name": "P\u00e9keualak",
+        "zones": [
+            "Lacs enchant\u00e9s"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 235,
+        "name": "Gloutovore",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 236,
+        "name": "Abrakne sombre",
+        "zones": [
+            "For\u00eat des Abraknydes sombres"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 237,
+        "name": "Dragodinde dor\u00e9e sauvage",
+        "zones": [
+            "Territoire des Dragodindes"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 238,
+        "name": "Chevaucheur koalak",
+        "zones": [
+            "Cimeti\u00e8re primitif"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 239,
+        "name": "Meupette",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 12,
+        "type": "monster"
+    },
+    {
+        "id": 240,
+        "name": "Bambouto sacr\u00e9",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 241,
+        "name": "Dragoeuf guerrier",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 242,
+        "name": "Dragoeuf volant",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 243,
+        "name": "Aerohouctor le guerrier",
+        "zones": [
+            "Souterrains de la presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 244,
+        "name": "Aquabralak le guerrier",
+        "zones": [
+            "Souterrains de la presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 245,
+        "name": "Ignelicrobur le guerrier",
+        "zones": [
+            "Souterrains de la presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 246,
+        "name": "Terrakoubiak le guerrier",
+        "zones": [
+            "Souterrains de la presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 247,
+        "name": "Disciple zoth",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 248,
+        "name": "Brouture",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 249,
+        "name": "Koalak sanguin",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 250,
+        "name": "Bitouf sombre",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 251,
+        "name": "Floribonde",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 252,
+        "name": "F\u00e9corce",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 253,
+        "name": "Koalak farouche",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 254,
+        "name": "Mama koalak",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 255,
+        "name": "Momie koalak",
+        "zones": [
+            "Cimeti\u00e8re primitif"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 256,
+        "name": "Bourbassingue",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 257,
+        "name": "Warko violet",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 258,
+        "name": "Gamine zoth",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 259,
+        "name": "Guerrier zoth",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 13,
+        "type": "monster"
+    },
+    {
+        "id": 260,
+        "name": "Tourbassingue",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 261,
+        "name": "Abrakleur sombre",
+        "zones": [
+            "Jungle Obscure d'Otomai"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 262,
+        "name": "Dragoss Blanc \u00e9veil\u00e9",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 263,
+        "name": "Dragoss dor\u00e9 \u00e9veill\u00e9",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 264,
+        "name": "Dragoss noir \u00e9veill\u00e9",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 265,
+        "name": "Dragoss de saphir \u00e9veill\u00e9",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 266,
+        "name": "Soryo firefoux",
+        "zones": [
+            "Feudala"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 267,
+        "name": "Kitsou nufeu",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 268,
+        "name": "Maho firefoux",
+        "zones": [
+            "Feudala"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 269,
+        "name": "Drakoalak",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 270,
+        "name": "Fauchalak",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 271,
+        "name": "Ma\u00eetre koalak",
+        "zones": [
+            "Cimeti\u00e8re primitif"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 272,
+        "name": "Poolay",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 273,
+        "name": "Ignerkocropos l'affam\u00e9",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 274,
+        "name": "Terraburkal le perfide",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 275,
+        "name": "Aqualikros l'impitoyable",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 276,
+        "name": "Aerotrugobur le malveillant",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 277,
+        "name": "Trooll",
+        "zones": [
+            "Bois de Litneg"
+        ],
+        "step": 14,
+        "type": "monster"
+    },
+    {
+        "id": 278,
+        "name": "Sergent zoth",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 279,
+        "name": "Ma\u00eetre zoth",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 280,
+        "name": "Kaskargo",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 281,
+        "name": "Bitouf a\u00e9rien",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 282,
+        "name": "Abrakleur clair",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 283,
+        "name": "Yokai firefoux",
+        "zones": [
+            "Pandala Feu"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 284,
+        "name": "Champaknyde",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 285,
+        "name": "Tromperelle",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 286,
+        "name": "Champodonte",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 287,
+        "name": "Champbis",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 288,
+        "name": "Champ \u00e0 gnon",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 289,
+        "name": "Champmane",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 290,
+        "name": "Fant\u00f4me l\u00e9opardo",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 291,
+        "name": "Fant\u00f4me pandikaze",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 292,
+        "name": "Fant\u00f4me pandule",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 293,
+        "name": "Fant\u00f4me soryo Firefoux",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 294,
+        "name": "Fant\u00f4me maho Firefoux",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 295,
+        "name": "Fant\u00f4me yokai Firefoux",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 296,
+        "name": "Pandore",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 297,
+        "name": "Roissingue",
+        "zones": [
+            "Tourbi\u00e8re"
+        ],
+        "step": 15,
+        "type": "monster"
+    },
+    {
+        "id": 298,
+        "name": "Fant\u00f4me pandore",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 16,
+        "type": "monster"
+    },
+    {
+        "id": 299,
+        "name": "Fant\u00f4me Tanukou\u00ef San",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 16,
+        "type": "monster"
+    },
+    {
+        "id": 300,
+        "name": "Mob l'Eponge",
+        "zones": [
+            "Donjon Ensabl\u00e9"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 301,
+        "name": "Bouftou Royal",
+        "zones": [
+            "Donjon des Bouftous"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 302,
+        "name": "Tournesol Affam\u00e9",
+        "zones": [
+            "Donjon des Champs"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 303,
+        "name": "Gel\u00e9e Royale Bleue",
+        "zones": [
+            "Donjon des Gel\u00e9es"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 304,
+        "name": "Gel\u00e9e Royale Menthe",
+        "zones": [
+            "Donjon des Gel\u00e9es"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 305,
+        "name": "Shin Larve",
+        "zones": [
+            "Donjon des Larves"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 306,
+        "name": "Wabbit GM",
+        "zones": [
+            "Salle secr\u00e8te du souterrain Wabbit"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 307,
+        "name": "Scarabosse Dor\u00e9",
+        "zones": [
+            "Donjon des Scarafeuilles"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 308,
+        "name": "Bworkette",
+        "zones": [
+            "Donjon des Bworks"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 309,
+        "name": "Dragon Cochon",
+        "zones": [
+            "Antre du Dragon Cochon"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 310,
+        "name": "Mominotor",
+        "zones": [
+            "Labyrinthe du Minotoror"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 311,
+        "name": "D\u00e9minoboule",
+        "zones": [
+            "Labyrinthe du Minotoror"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 312,
+        "name": "Tofu Royal",
+        "zones": [
+            "Tofulailler Royal"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 313,
+        "name": "Blop Coco Royal",
+        "zones": [
+            "Donjon des Blops"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 314,
+        "name": "Blop Griotte Royal",
+        "zones": [
+            "Donjon des Blops"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 315,
+        "name": "Blop Indigo Royal",
+        "zones": [
+            "Donjon des Blops"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 316,
+        "name": "Blop Reinette Royal",
+        "zones": [
+            "Donjon des Blops"
+        ],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 317,
+        "name": "Rat Noir",
+        "zones": [],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 318,
+        "name": "Rat Blanc",
+        "zones": [],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 319,
+        "name": "Minotoror",
+        "zones": [],
+        "step": 17,
+        "type": "boss"
+    },
+    {
+        "id": 320,
+        "name": "Hell Mina",
+        "zones": [
+            "Labyrinthe du Dark Vlad"
+        ],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 321,
+        "name": "Tanukoui San",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 322,
+        "name": "Craqueleur l\u00e9gendaire",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 323,
+        "name": "Gardienne des \u00e9gouts",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 324,
+        "name": "Gel\u00e9e royale fraise",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 325,
+        "name": "Ma\u00eetre corbac",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 326,
+        "name": "Blop multicolore royal",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 327,
+        "name": "Corailleur magistral",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 328,
+        "name": "Gourlo le terrible",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 329,
+        "name": "Meulou",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 330,
+        "name": "Wa wabbit",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 331,
+        "name": "Moon",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 332,
+        "name": "Koulosse",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 333,
+        "name": "Skeunk",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 334,
+        "name": "Abraknyde ancestral",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 335,
+        "name": "Ma\u00eetre pandore",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 336,
+        "name": "Tynril ahuri",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 337,
+        "name": "Tynril constern\u00e9",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 338,
+        "name": "Tynril d\u00e9concert\u00e9",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 339,
+        "name": "Tynril perfide",
+        "zones": [],
+        "step": 18,
+        "type": "boss"
+    },
+    {
+        "id": 340,
+        "name": "Gel\u00e9e royale citron",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 341,
+        "name": "Touchparak",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 342,
+        "name": "Bworker",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 343,
+        "name": "Sphincter Cell",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 344,
+        "name": "Minotot",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 345,
+        "name": "Silf le rasboul majeur",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 346,
+        "name": "Crocabulia",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 347,
+        "name": "P\u00e9ki p\u00e9ki",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 348,
+        "name": "Ch\u00eane mou",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 349,
+        "name": "Ougah",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 350,
+        "name": "Kimbo",
+        "zones": [],
+        "step": 19,
+        "type": "boss"
+    },
+    {
+        "id": 351,
+        "name": "Sourizoto le Collant",
+        "zones": [
+            "Cryptes"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 1
+    },
+    {
+        "id": 352,
+        "name": "Mosket\u00e8re le D\u00e9vou\u00e9",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Pandala"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 2
+    },
+    {
+        "id": 353,
+        "name": "Arakule la Revancharde",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Pandala"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 3
+    },
+    {
+        "id": 354,
+        "name": "Boudalf le Blanc",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Tain\u00e9la"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 4
+    },
+    {
+        "id": 355,
+        "name": "Boulgourvil le Lointain",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Tain\u00e9la"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 5
+    },
+    {
+        "id": 356,
+        "name": "Tofumanchou l'Empereur",
+        "zones": [
+            "Cimeti\u00e8res"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 6
+    },
+    {
+        "id": 357,
+        "name": "Arachitik la Souffreteuse",
+        "zones": [
+            "Souterrains d'Astrub"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 7
+    },
+    {
+        "id": 358,
+        "name": "Pioustone le Probl\u00e8me",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 8
+    },
+    {
+        "id": 359,
+        "name": "Pioulbrineur le Mercenaire",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 9
+    },
+    {
+        "id": 360,
+        "name": "Pioulette la coquine",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 10
+    },
+    {
+        "id": 361,
+        "name": "Pioukas la Plante",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 11
+    },
+    {
+        "id": 362,
+        "name": "Pioussokrim le D\u00e9l\u00e8t\u00e8re",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 12
+    },
+    {
+        "id": 363,
+        "name": "Craraboss le F\u00e9erique",
+        "zones": [
+            "Zone du Port de Madrestam",
+            "Rivages de Sufokia"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 19
+    },
+    {
+        "id": 364,
+        "name": "Larvonika l'Instrument",
+        "zones": [],
+        "step": 20,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 365,
+        "name": "Pioufe la Maquill\u00e9e",
+        "zones": [
+            "Astrub",
+            "Bonta",
+            "Sufokia"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 13
+    },
+    {
+        "id": 366,
+        "name": "Tofuldebeu l'Explosif",
+        "zones": [],
+        "step": 20,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 367,
+        "name": "Tofurapin le P\u00e9tri",
+        "zones": [
+            "Souterrains d'astrub"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 21
+    },
+    {
+        "id": 368,
+        "name": "Chamchie le Difficile",
+        "zones": [],
+        "step": 20,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 369,
+        "name": "Pissdane l'Insipide",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Champs de Cania",
+            "Tain\u00e9la"
+        ],
+        "step": 20,
+        "type": "archi",
+        "base": 23
+    },
+    {
+        "id": 370,
+        "name": "Araknay la Galopante",
+        "zones": [],
+        "step": 20,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 371,
+        "name": "Bandapar l'Exclu",
+        "zones": [
+            "Astrub",
+            "Passage vers Br\u00e2kmar"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 25
+    },
+    {
+        "id": 372,
+        "name": "Roz la Magicienne",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Champs de Cania",
+            "Tain\u00e9la"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 26
+    },
+    {
+        "id": 373,
+        "name": "Gelanal le Huileux",
+        "zones": [],
+        "step": 21,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 374,
+        "name": "Kwoanneur le Frimeur",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 29
+    },
+    {
+        "id": 375,
+        "name": "Larchimaide la Pouss\u00e9e",
+        "zones": [],
+        "step": 21,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 376,
+        "name": "Boufd\u00e9gou le Refoulant",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Tain\u00e9la"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 31
+    },
+    {
+        "id": 377,
+        "name": "Kolforthe l'Ind\u00e9collable",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 32
+    },
+    {
+        "id": 378,
+        "name": "Geloliaine l'A\u00e9rien",
+        "zones": [
+            "P\u00e9ninsule des Gel\u00e9es",
+            "Gelaxi\u00e8me dimension"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 28
+    },
+    {
+        "id": 379,
+        "name": "Larvaptr\u00e8 le Subjectif",
+        "zones": [
+            "Un peu partout"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 33
+    },
+    {
+        "id": 380,
+        "name": "Serpistol l'Illustre",
+        "zones": [
+            "Plaines de Cania"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 210
+    },
+    {
+        "id": 381,
+        "name": "Tiwa'Missou le Gateux",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 35
+    },
+    {
+        "id": 382,
+        "name": "Boudur le Raide",
+        "zones": [
+            "Fa\u00e7ade de Brakm\u00e2r",
+            "Territoire des Bandits"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 34
+    },
+    {
+        "id": 383,
+        "name": "Tiwalp\u00e9 le D\u00e9v\u00eatu",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 36
+    },
+    {
+        "id": 384,
+        "name": "Tiwoflan le Lache",
+        "zones": [],
+        "step": 21,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 385,
+        "name": "Tour le Vice",
+        "zones": [
+            "Amakna",
+            "Astrub",
+            "Champs de Cania"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 38
+    },
+    {
+        "id": 386,
+        "name": "Bandson le Tonitruant",
+        "zones": [
+            "Territoire des Bandits"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 39
+    },
+    {
+        "id": 387,
+        "name": "Gobstiniais le T\u00eatu",
+        "zones": [
+            "Campement des Bworks",
+            "Village d\u00e9vast\u00e9 de Gisgoul"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 40
+    },
+    {
+        "id": 388,
+        "name": "Nodkoku le Trahi",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 41
+    },
+    {
+        "id": 389,
+        "name": "Tikosto le Mousse",
+        "zones": [],
+        "step": 21,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 390,
+        "name": "Trukul le Lent",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 21,
+        "type": "archi",
+        "base": 43
+    },
+    {
+        "id": 391,
+        "name": "Sangria le Fruit\u00e9",
+        "zones": [
+            "Amakna",
+            "Astrub"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 44
+    },
+    {
+        "id": 392,
+        "name": "Champayr le Disjonct\u00e9",
+        "zones": [
+            "Clairi\u00e8re de Bruce Boulgour",
+            "Amakna",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 45
+    },
+    {
+        "id": 393,
+        "name": "Citassat\u00e9 le Service",
+        "zones": [
+            "Labyrinthe du DV"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 46
+    },
+    {
+        "id": 394,
+        "name": "Vampunor le Glacial",
+        "zones": [
+            "Cimeti\u00e8res d'Amakna",
+            "Bonta",
+            "Brakm\u00e2r",
+            "Cryptes"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 47
+    },
+    {
+        "id": 395,
+        "name": "Bilvoez\u00e9 le Bonimenteur",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 48
+    },
+    {
+        "id": 396,
+        "name": "Bi le Partageur",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 49
+    },
+    {
+        "id": 397,
+        "name": "Bistou le Qu\u00eateur",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 50
+    },
+    {
+        "id": 398,
+        "name": "Bistou le Rieur",
+        "zones": [
+            "Prairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 51
+    },
+    {
+        "id": 399,
+        "name": "Chevaustine le Reconstruit",
+        "zones": [
+            "Campement des Bworks",
+            "Amakna"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 52
+    },
+    {
+        "id": 400,
+        "name": "Milipussien le G\u00e9ant",
+        "zones": [
+            "Souterrains d'Astrub"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 53
+    },
+    {
+        "id": 401,
+        "name": "Boostif l'Affam\u00e9",
+        "zones": [
+            "Coin des Boos",
+            "Mar\u00e9cages"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 54
+    },
+    {
+        "id": 402,
+        "name": "Preskapwal le Tendancieux",
+        "zones": [
+            "Amakna",
+            "Astrub"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 55
+    },
+    {
+        "id": 403,
+        "name": "Chonstip la Passag\u00e8re",
+        "zones": [
+            "Presqu'\u00eele des Porcos"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 56
+    },
+    {
+        "id": 404,
+        "name": "Torthur la Lutte",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 57
+    },
+    {
+        "id": 405,
+        "name": "Wabbitud le Constant",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 58
+    },
+    {
+        "id": 406,
+        "name": "Porfavor le Qu\u00e9mandeur",
+        "zones": [
+            "Territoire des Porkass",
+            "Plaine de Cania"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 60
+    },
+    {
+        "id": 407,
+        "name": "Bulleur le Dormeur",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 62
+    },
+    {
+        "id": 408,
+        "name": "Bouflet le Pu\u00e9ril",
+        "zones": [],
+        "step": 22,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 409,
+        "name": "Cromikay le N\u00e9ophyte",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 22,
+        "type": "archi",
+        "base": 61
+    },
+    {
+        "id": 410,
+        "name": "Tortenssia la Fleurie",
+        "zones": [],
+        "step": 22,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 411,
+        "name": "Bambousk\u00e9 le Camoufl\u00e9",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 72
+    },
+    {
+        "id": 412,
+        "name": "Corpat le Vampire",
+        "zones": [
+            "P\u00e9nates des Corbac",
+            "Lande de Sidimote",
+            "Plaine de Cania"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 66
+    },
+    {
+        "id": 413,
+        "name": "Pichduitre le Totem",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 68
+    },
+    {
+        "id": 414,
+        "name": "Pichdourse le Puissant",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 69
+    },
+    {
+        "id": 415,
+        "name": "Pichtoire l'Erudit",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 70
+    },
+    {
+        "id": 416,
+        "name": "Pichakot\u00e9 le D\u00e9goutant",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Calanques d'Astrub",
+            "Plage de Cania"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 71
+    },
+    {
+        "id": 417,
+        "name": "Tortorak le Cornu",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 64
+    },
+    {
+        "id": 418,
+        "name": "Maitre Amboat le Moqueur",
+        "zones": [
+            "Cimeti\u00e8res de Bonta",
+            "Brakm\u00e2r",
+            "Cryptes"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 73
+    },
+    {
+        "id": 419,
+        "name": "Buldeflore le P\u00e9n\u00e9trant",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 78
+    },
+    {
+        "id": 420,
+        "name": "Fourapin le Chaud",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 77
+    },
+    {
+        "id": 421,
+        "name": "Milipatte la Griffe",
+        "zones": [
+            "Amakna",
+            "Bois de Litneg"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 76
+    },
+    {
+        "id": 422,
+        "name": "Minoskour le Sauveur",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 74
+    },
+    {
+        "id": 423,
+        "name": "Neufedur le Flottant",
+        "zones": [
+            "Labyrinthe du DV"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 75
+    },
+    {
+        "id": 424,
+        "name": "Tortilleur le Coul\u00e9",
+        "zones": [
+            "\u00cele de Moon"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 65
+    },
+    {
+        "id": 425,
+        "name": "Bwormage le Respectueux",
+        "zones": [
+            "Campement des Bworks"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 79
+    },
+    {
+        "id": 426,
+        "name": "Wagnagnah le Sanglant",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 82
+    },
+    {
+        "id": 427,
+        "name": "Crognan le Barbare",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 80
+    },
+    {
+        "id": 428,
+        "name": "Rostensyl la Cuisini\u00e8re",
+        "zones": [
+            "Champs des Ingalsses"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 81
+    },
+    {
+        "id": 429,
+        "name": "Minsinistre l'Elu",
+        "zones": [
+            "Fa\u00e7ade de Brakm\u00e2r",
+            "Territoire des Bandits"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 83
+    },
+    {
+        "id": 430,
+        "name": "Barchwork le Multicolore",
+        "zones": [
+            "Campement des Bworks"
+        ],
+        "step": 23,
+        "type": "archi",
+        "base": 97
+    },
+    {
+        "id": 431,
+        "name": "Champayt l'Odorant",
+        "zones": [
+            "Clairi\u00e8re des Bruce Boulgour",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 85
+    },
+    {
+        "id": 432,
+        "name": "Chamflay le Ballonn\u00e9",
+        "zones": [
+            "Clairi\u00e8re des Bruce Boulgour",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 86
+    },
+    {
+        "id": 433,
+        "name": "Chamdbl\u00e9 le Cultiv\u00e9",
+        "zones": [
+            "Clairi\u00e8re des Bruce Boulgour",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 87
+    },
+    {
+        "id": 434,
+        "name": "Craquetuss le Piquant",
+        "zones": [
+            "Astrub",
+            "Amakna"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 88
+    },
+    {
+        "id": 435,
+        "name": "Mandalo l'Aqueuse",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 89
+    },
+    {
+        "id": 436,
+        "name": "Kitsoupierre le R\u00e9cipient",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 90
+    },
+    {
+        "id": 437,
+        "name": "Garsim le Mort",
+        "zones": [
+            "Le champs du Repos"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 91
+    },
+    {
+        "id": 438,
+        "name": "Draglida la Disparue",
+        "zones": [
+            "Montagne des koalaks"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 92
+    },
+    {
+        "id": 439,
+        "name": "Gelaviv le Gla\u00e7on",
+        "zones": [
+            "P\u00e9ninsule des Gel\u00e9es"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 93
+    },
+    {
+        "id": 440,
+        "name": "Watdogue le Bien Nomm\u00e9",
+        "zones": [
+            "\u00cele des Wabbits > \u00eele du nord-ouest"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 94
+    },
+    {
+        "id": 441,
+        "name": "Chafalfer l'Optimiste",
+        "zones": [
+            "Cimeti\u00e8res"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 95
+    },
+    {
+        "id": 442,
+        "name": "Crakmitaine le Faucheur",
+        "zones": [
+            "Amakna"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 96
+    },
+    {
+        "id": 443,
+        "name": "Bworkasse le D\u00e9goutant",
+        "zones": [
+            "Campement des Bworks"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 97
+    },
+    {
+        "id": 444,
+        "name": "Abrakroc l'Edent\u00e9",
+        "zones": [
+            "For\u00eat des Abraknydes",
+            "Tain\u00e9la",
+            "Amakna"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 98
+    },
+    {
+        "id": 445,
+        "name": "Krapahut le Randonneur",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 99
+    },
+    {
+        "id": 446,
+        "name": "Scap\u00e9 l'Ep\u00e9e",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 100
+    },
+    {
+        "id": 447,
+        "name": "Scarafayss le Balafr\u00e9",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 101
+    },
+    {
+        "id": 448,
+        "name": "Scarouarze l'Epop\u00e9e",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 102
+    },
+    {
+        "id": 449,
+        "name": "Scaramel le Fondant",
+        "zones": [
+            "Plaine des scarafeuilles"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 103
+    },
+    {
+        "id": 450,
+        "name": "Ribibi le Cher",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna",
+            "Bonta"
+        ],
+        "step": 24,
+        "type": "archi",
+        "base": 104
+    },
+    {
+        "id": 451,
+        "name": "Blorie l'Assourdissante",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 105
+    },
+    {
+        "id": 452,
+        "name": "Blodur l'Infect",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 106
+    },
+    {
+        "id": 453,
+        "name": "Bloporte le Veule",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 107
+    },
+    {
+        "id": 454,
+        "name": "Blof l'Apathique",
+        "zones": [
+            "Plairie des Blops",
+            "Plaine de Cania"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 108
+    },
+    {
+        "id": 455,
+        "name": "Boombata le Garde",
+        "zones": [
+            "la jungle de Moon"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 111
+    },
+    {
+        "id": 456,
+        "name": "Farlon l'Enfant",
+        "zones": [
+            "Labyrinthe",
+            "Donjon du Dragon Cochon"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 109
+    },
+    {
+        "id": 457,
+        "name": "Scaratyn l'Huitre",
+        "zones": [
+            "\u00cele du Minotoror"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 110
+    },
+    {
+        "id": 458,
+        "name": "Chaffoin le Sournois",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 113
+    },
+    {
+        "id": 459,
+        "name": "Picht le Brioch\u00e9",
+        "zones": [
+            "Donjon Ensabl\u00e9",
+            "Plage de Cania",
+            "Calanques d'Astrub"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 114
+    },
+    {
+        "id": 460,
+        "name": "Tronkoneuz la Tranchante",
+        "zones": [
+            "For\u00eat des Abraknydes\/sombres"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 112
+    },
+    {
+        "id": 461,
+        "name": "Abrakadnuzar",
+        "zones": [
+            "For\u00eat des Abraknydes\/sombres"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 115
+    },
+    {
+        "id": 462,
+        "name": "Chafemal le Bagarreur",
+        "zones": [
+            "Cimeti\u00e8res"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 116
+    },
+    {
+        "id": 463,
+        "name": "Crolnareff l'Exil\u00e9",
+        "zones": [
+            "Mar\u00e9cages"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 117
+    },
+    {
+        "id": 464,
+        "name": "Radoutable le Craint",
+        "zones": [
+            "Grotte d'Astrub"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 118
+    },
+    {
+        "id": 465,
+        "name": "Scorpit\u00e8ne l'Enflamm\u00e9",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 119
+    },
+    {
+        "id": 466,
+        "name": "Dragnoute l'Irascible",
+        "zones": [
+            "Territoire des Dragodindes",
+            "montagne des Koalaks"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 120
+    },
+    {
+        "id": 467,
+        "name": "Bulsavon le Gonfl\u00e9",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 126
+    },
+    {
+        "id": 468,
+        "name": "Crustterus l'Organique",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 122
+    },
+    {
+        "id": 469,
+        "name": "Crustensyl le Pragmatique",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 123
+    },
+    {
+        "id": 470,
+        "name": "Cruskof le Rustre",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 25,
+        "type": "archi",
+        "base": 124
+    },
+    {
+        "id": 471,
+        "name": "Crusmeyer le Pervers",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 125
+    },
+    {
+        "id": 472,
+        "name": "Forboyar l'Enigmatique",
+        "zones": [
+            "Fa\u00e7ade de Br\u00e2kmar",
+            "Territoire des Bandits"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 121
+    },
+    {
+        "id": 473,
+        "name": "Arakozette l'Intr\u00e9pide",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 128
+    },
+    {
+        "id": 474,
+        "name": "Arabord la Cruche",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "Br\u00e2kmar",
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 127
+    },
+    {
+        "id": 475,
+        "name": "Grandilok le Clameur",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 129
+    },
+    {
+        "id": 476,
+        "name": "Wokenrol le Danseur",
+        "zones": [
+            "\u00cele des Wabbits"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 130
+    },
+    {
+        "id": 477,
+        "name": "Cavordemal le Sorcier",
+        "zones": [
+            "Plaine des Porkass"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 131
+    },
+    {
+        "id": 478,
+        "name": "Aboudbra le Porteur",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 479,
+        "name": "Ameur la Laide",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 480,
+        "name": "Codenlgaz le Probl\u00e8me",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 481,
+        "name": "Ginsenk le Stimulant",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 482,
+        "name": "Kiroyal le Sirupeux",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 483,
+        "name": "Let le Rond",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 484,
+        "name": "Nelvin le Boulet",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 485,
+        "name": "Nipulnislip l'Exhibitionniste",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 486,
+        "name": "Osuxion le Vampirique",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 487,
+        "name": "Susbewl l'Hypocrite",
+        "zones": [],
+        "step": 26,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 488,
+        "name": "Kokt\u00e9le le Secou\u00e9",
+        "zones": [
+            "Plage de Moon"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 142
+    },
+    {
+        "id": 489,
+        "name": "Chafmarcel le F\u00eatard",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna",
+            "Cimeti\u00e8re de Bonta",
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 143
+    },
+    {
+        "id": 490,
+        "name": "Chalan le Commercant",
+        "zones": [
+            "Cimeti\u00e8re d'Amakna",
+            "Cimeti\u00e8re de Bonta",
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 26,
+        "type": "archi",
+        "base": 144
+    },
+    {
+        "id": 491,
+        "name": "Chamitant le Dillettante",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "de Br\u00e2kmar",
+            "Souterrains d'Astrub"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 148
+    },
+    {
+        "id": 492,
+        "name": "Doktopuss le Mal\u00e9fique",
+        "zones": [
+            "Canyon Sauvage",
+            "Lacs Enchant\u00e9s"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 145
+    },
+    {
+        "id": 493,
+        "name": "Germinol l'Indigent",
+        "zones": [
+            "Labyrinthe du Minotoror"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 147
+    },
+    {
+        "id": 494,
+        "name": "Koalastrof la Naturelle",
+        "zones": [
+            "For\u00eat de Kaliptus",
+            "Lacs enchant\u00e9s"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 146
+    },
+    {
+        "id": 495,
+        "name": "Ouature la Mobile",
+        "zones": [
+            "Champ du repos"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 151
+    },
+    {
+        "id": 496,
+        "name": "Ouass\u00e9bo l'Esth\u00e8te",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai",
+            "Champ du repos"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 150
+    },
+    {
+        "id": 497,
+        "name": "Ouashouash l'Exub\u00e9rant",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai",
+            "Champ du repos"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 149
+    },
+    {
+        "id": 498,
+        "name": "Palmito le Menteur",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 152
+    },
+    {
+        "id": 499,
+        "name": "Palmiche le Serein",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 153
+    },
+    {
+        "id": 500,
+        "name": "Palmiflette le Convivial",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 154
+    },
+    {
+        "id": 501,
+        "name": "Sampi l'Eternel",
+        "zones": [
+            "For\u00eat de Cania"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 155
+    },
+    {
+        "id": 502,
+        "name": "Abrakildas le V\u00e9n\u00e9rable",
+        "zones": [
+            "For\u00eat des Abraknydes"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 156
+    },
+    {
+        "id": 503,
+        "name": "Cramikaz le Sucidaire",
+        "zones": [
+            "Massifs de Cania"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 157
+    },
+    {
+        "id": 504,
+        "name": "Pandimaensh l'Animateur",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 158
+    },
+    {
+        "id": 505,
+        "name": "Chafrit le Barbare",
+        "zones": [
+            "Cimeti\u00e8re de Bonta",
+            "Cimeti\u00e8res de Br\u00e2kmar"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 159
+    },
+    {
+        "id": 506,
+        "name": "Craquetou le Fissur\u00e9",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 161
+    },
+    {
+        "id": 507,
+        "name": "Ma\u00eetre Onom le R\u00e9gulier",
+        "zones": [
+            "Champs de Cania"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 160
+    },
+    {
+        "id": 508,
+        "name": "Pandimy le contagieux",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 162
+    },
+    {
+        "id": 509,
+        "name": "Kannibal le Lecteur",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 163
+    },
+    {
+        "id": 510,
+        "name": "Kapota la Fraise",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 27,
+        "type": "archi",
+        "base": 164
+    },
+    {
+        "id": 511,
+        "name": "Kann\u00e9mik le Maigre",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 165
+    },
+    {
+        "id": 512,
+        "name": "Kannisterik le Forcen\u00e9",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 166
+    },
+    {
+        "id": 513,
+        "name": "Pandanlagl la Saoule",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 167
+    },
+    {
+        "id": 514,
+        "name": "Palmbytch la Bronz\u00e9e",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 169
+    },
+    {
+        "id": 515,
+        "name": "Ratbol l'Aigri",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "de Br\u00e2kmar",
+            "Souterrains d'Astrub"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 168
+    },
+    {
+        "id": 516,
+        "name": "Ougaould le Parasite",
+        "zones": [
+            "Lande de Sidimote"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 170
+    },
+    {
+        "id": 517,
+        "name": "Corboyard l'Enigmatique",
+        "zones": [
+            "Plage de Corail"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 181
+    },
+    {
+        "id": 518,
+        "name": "Dragstik le Frustre",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 171
+    },
+    {
+        "id": 519,
+        "name": "Dragtula l'Ancien",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 174
+    },
+    {
+        "id": 520,
+        "name": "Dragsta le D\u00e9tendu",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 173
+    },
+    {
+        "id": 521,
+        "name": "Dragstore le G\u00e9n\u00e9raliste",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 172
+    },
+    {
+        "id": 522,
+        "name": "Dragtopaile l'Excavateur",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 175
+    },
+    {
+        "id": 523,
+        "name": "Dragioli le Succulent",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 178
+    },
+    {
+        "id": 524,
+        "name": "Dragalgan l'Effervescent",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 176
+    },
+    {
+        "id": 525,
+        "name": "Dragybuss le Sucr\u00e9",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 177
+    },
+    {
+        "id": 526,
+        "name": "L\u00e9opolnor le Barde",
+        "zones": [
+            "Feudala"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 179
+    },
+    {
+        "id": 527,
+        "name": "Kitsoudbra le Malodorant",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 182
+    },
+    {
+        "id": 528,
+        "name": "Serpistule le Purulent",
+        "zones": [
+            "Labyrinthe du Minotoror"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 180
+    },
+    {
+        "id": 529,
+        "name": "Pandouille le Titubant",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 184
+    },
+    {
+        "id": 530,
+        "name": "Rauligo le Sale",
+        "zones": [
+            "Baie de Cania"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 183
+    },
+    {
+        "id": 531,
+        "name": "Cooligane le N\u00e9vros\u00e9",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 185
+    },
+    {
+        "id": 532,
+        "name": "Caboume l'Artilleur",
+        "zones": [
+            "B\u00e2teau du Chouque",
+            "donjon de l'Arche d'Otomai"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 187
+    },
+    {
+        "id": 533,
+        "name": "Nakuneuye le Borgne",
+        "zones": [],
+        "step": 29,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 534,
+        "name": "Dragstayr le Fonceur",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 190
+    },
+    {
+        "id": 535,
+        "name": "Dragmoclaiss le Fataliste",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 193
+    },
+    {
+        "id": 536,
+        "name": "Dragkouine la D\u00e9guis\u00e9",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 191
+    },
+    {
+        "id": 537,
+        "name": "Dragnostik le Sceptique",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 192
+    },
+    {
+        "id": 538,
+        "name": "Koamaembair le Coulant",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 194
+    },
+    {
+        "id": 539,
+        "name": "Koakofrui le Confit",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 195
+    },
+    {
+        "id": 540,
+        "name": "Koaskette la Chapeli\u00e8re",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 196
+    },
+    {
+        "id": 541,
+        "name": "Koarmit la Batracienne",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 197
+    },
+    {
+        "id": 542,
+        "name": "Rat\u00e9haifaim le Professeur",
+        "zones": [
+            "Ego\u00fbts de Bonta",
+            "de Br\u00e2kmar"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 198
+    },
+    {
+        "id": 543,
+        "name": "Sparoket le Lanceur",
+        "zones": [
+            "Arche d'Otomai"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 199
+    },
+    {
+        "id": 544,
+        "name": "Chiendanl\u00e9min l'Illusionniste",
+        "zones": [
+            "Jungle Obcure"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 200
+    },
+    {
+        "id": 545,
+        "name": "Fanlabiz le V\u00e9loce",
+        "zones": [
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 201
+    },
+    {
+        "id": 546,
+        "name": "Fandanleuil le Precis",
+        "zones": [
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 202
+    },
+    {
+        "id": 547,
+        "name": "Fantoch le Pantin",
+        "zones": [
+            "Cimeti\u00e8re de Br\u00e2kmar"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 203
+    },
+    {
+        "id": 548,
+        "name": "Fantrask le Reveur",
+        "zones": [],
+        "step": 29,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 549,
+        "name": "Barebourd le Comte",
+        "zones": [
+            "Arche d'Otomai"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 206
+    },
+    {
+        "id": 550,
+        "name": "Nerdeubeu le Flagellant",
+        "zones": [
+            "Jungle Obscure"
+        ],
+        "step": 29,
+        "type": "archi",
+        "base": 208
+    },
+    {
+        "id": 551,
+        "name": "Crathdogue le Cruel",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 213
+    },
+    {
+        "id": 552,
+        "name": "Toufou le Ben\u00eat",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 212
+    },
+    {
+        "id": 553,
+        "name": "Crok le Beau",
+        "zones": [],
+        "step": 30,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 554,
+        "name": "Fanfancisco le Cosmopolite",
+        "zones": [],
+        "step": 30,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 555,
+        "name": "Fanjipann le Sucr\u00e9",
+        "zones": [],
+        "step": 30,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 556,
+        "name": "Fanhnatur le Simple",
+        "zones": [],
+        "step": 30,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 557,
+        "name": "Fanjo le Pilote",
+        "zones": [],
+        "step": 30,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 558,
+        "name": "Fanlmyl l'Acuit\u00e9",
+        "zones": [],
+        "step": 30,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 559,
+        "name": "Kanasukr le Mielleux",
+        "zones": [
+            "Plaines de Cania"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 211
+    },
+    {
+        "id": 560,
+        "name": "Mufguedin le Supr\u00eame",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 214
+    },
+    {
+        "id": 561,
+        "name": "Muloufok l'Hillarant",
+        "zones": [
+            "Bois de Litneg"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 215
+    },
+    {
+        "id": 562,
+        "name": "Pangraive le Militant",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 216
+    },
+    {
+        "id": 563,
+        "name": "Kido l'Atre",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 217
+    },
+    {
+        "id": 564,
+        "name": "Kilimanj'haro le Grimpeur",
+        "zones": [
+            "Plaines herbeuses"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 218
+    },
+    {
+        "id": 565,
+        "name": "Dragoo le Cramoisi",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 219
+    },
+    {
+        "id": 566,
+        "name": "Dragtonien le Malvoyant",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 222
+    },
+    {
+        "id": 567,
+        "name": "Dragma le Bouillant",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 220
+    },
+    {
+        "id": 568,
+        "name": "Dragoeth le Penseur",
+        "zones": [
+            "Presqu'\u00eele des Dragoeufs"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 221
+    },
+    {
+        "id": 569,
+        "name": "Dragonienne l'Econome",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 223
+    },
+    {
+        "id": 570,
+        "name": "Guerrite le Veilleur",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 30,
+        "type": "archi",
+        "base": 224
+    },
+    {
+        "id": 571,
+        "name": "Bramin le Bic\u00e9phale",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 225
+    },
+    {
+        "id": 572,
+        "name": "Onihylis le Destructeur",
+        "zones": [
+            "For\u00eat mal\u00e9fique"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 226
+    },
+    {
+        "id": 573,
+        "name": "Warkolad l'Etreinte",
+        "zones": [
+            "For\u00eat de Kaliptus",
+            "Canyon Sauvage"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 227
+    },
+    {
+        "id": 574,
+        "name": "Kitsoupopul\u00e8re le G\u00e9nereux",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 228
+    },
+    {
+        "id": 575,
+        "name": "Abrakanette l'Encapsul\u00e9",
+        "zones": [
+            "For\u00eat des Abraknydes sombres"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 229
+    },
+    {
+        "id": 576,
+        "name": "Bulgig le Danseur",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 230
+    },
+    {
+        "id": 577,
+        "name": "Fossamoel le Juteux",
+        "zones": [],
+        "step": 31,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 578,
+        "name": "Gloubibou le Gars",
+        "zones": [
+            "Jungle profonde de Moon"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 235
+    },
+    {
+        "id": 579,
+        "name": "Koasossyal le Psychopathe",
+        "zones": [
+            "For\u00eat de Kaliptus"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 232
+    },
+    {
+        "id": 580,
+        "name": "P\u00e9keutar le Tireur",
+        "zones": [
+            "Lacs enchant\u00e9s"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 234
+    },
+    {
+        "id": 581,
+        "name": "Piradain le Pingre",
+        "zones": [
+            "Lacs enchant\u00e9s"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 233
+    },
+    {
+        "id": 582,
+        "name": "Abraklette le Fondant",
+        "zones": [
+            "For\u00eat des Abraknydes sombres"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 236
+    },
+    {
+        "id": 583,
+        "name": "Koamag'oel le D\u00e9figur\u00e9",
+        "zones": [],
+        "step": 31,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 584,
+        "name": "Meuroup le Pr\u00eatre",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 239
+    },
+    {
+        "id": 585,
+        "name": "Bambono le Divin",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 240
+    },
+    {
+        "id": 586,
+        "name": "Dragdikal le D\u00e9cisif",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 241
+    },
+    {
+        "id": 587,
+        "name": "Dragobert le Monarque",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 242
+    },
+    {
+        "id": 588,
+        "name": "Diskord le Belliqueux",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 247
+    },
+    {
+        "id": 589,
+        "name": "Brouste l'Humiliant",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 248
+    },
+    {
+        "id": 590,
+        "name": "Bitoven le Musicien",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 31,
+        "type": "archi",
+        "base": 250
+    },
+    {
+        "id": 591,
+        "name": "Ecorf\u00e9 la Vive",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 252
+    },
+    {
+        "id": 592,
+        "name": "Floanna la Blonde",
+        "zones": [
+            "Jungle obscure d'Otomai"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 251
+    },
+    {
+        "id": 593,
+        "name": "Koalvissie le Chauve",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 249
+    },
+    {
+        "id": 594,
+        "name": "Koalaboi la Calorif\u00e8re",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 253
+    },
+    {
+        "id": 595,
+        "name": "Mamakomou l'Age",
+        "zones": [],
+        "step": 32,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 596,
+        "name": "Momikonos la Bandelette",
+        "zones": [],
+        "step": 32,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 597,
+        "name": "Bouliver le G\u00e9ant",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 256
+    },
+    {
+        "id": 598,
+        "name": "Wara l'Amer",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 257
+    },
+    {
+        "id": 599,
+        "name": "Gastroth la Contagieuse",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 258
+    },
+    {
+        "id": 600,
+        "name": "Guerumoth le Collant",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 259
+    },
+    {
+        "id": 601,
+        "name": "Tourbiket le Virevoletant",
+        "zones": [
+            "Tourbi\u00e8re d'Otomai"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 260
+    },
+    {
+        "id": 602,
+        "name": "Abrakine le Sombre",
+        "zones": [
+            "Jungle Obscure d'Otomai"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 261
+    },
+    {
+        "id": 603,
+        "name": "Dragminster le Magicien",
+        "zones": [],
+        "step": 32,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 604,
+        "name": "Dragtarus le Bell\u00e2tre",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 263
+    },
+    {
+        "id": 605,
+        "name": "Draquetteur le Voleur",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 264
+    },
+    {
+        "id": 606,
+        "name": "Drageaufol la Joyeuse",
+        "zones": [
+            "Sanctuaire des Dragoeufs"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 265
+    },
+    {
+        "id": 607,
+        "name": "Soryonara le Poli",
+        "zones": [
+            "Feudala"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 266
+    },
+    {
+        "id": 608,
+        "name": "Kitsoufre l'Explosif",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 267
+    },
+    {
+        "id": 609,
+        "name": "Mahoku le Bott\u00e9",
+        "zones": [
+            "Feudala"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 268
+    },
+    {
+        "id": 610,
+        "name": "Drakolage le Tentateur",
+        "zones": [
+            "Canyon Sauvage"
+        ],
+        "step": 32,
+        "type": "archi",
+        "base": 269
+    },
+    {
+        "id": 611,
+        "name": "Faufoll la Joyeuse",
+        "zones": [
+            "Vall\u00e9e de la Morh'Kitu"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 270
+    },
+    {
+        "id": 612,
+        "name": "Maitre Koantik le theoricien",
+        "zones": [],
+        "step": 33,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 613,
+        "name": "Poolopo la Traditionnelle",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 272
+    },
+    {
+        "id": 614,
+        "name": "Trooy\u00e9 l'Oxyd\u00e9",
+        "zones": [],
+        "step": 33,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 615,
+        "name": "Seripoth l'Ennemi",
+        "zones": [
+            "Village des Zoths"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 278
+    },
+    {
+        "id": 616,
+        "name": "Kaskapointhe la Couverte",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 280
+    },
+    {
+        "id": 617,
+        "name": "Toutouf le Velu",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 281
+    },
+    {
+        "id": 618,
+        "name": "Abrinos le Clair",
+        "zones": [
+            "Arbre Hakam"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 282
+    },
+    {
+        "id": 619,
+        "name": "Don kizoth l'Obstin\u00e9",
+        "zones": [],
+        "step": 33,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 620,
+        "name": "Chamil\u00e9ro le Malchanceux",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 284
+    },
+    {
+        "id": 621,
+        "name": "Yokaikoral le Duel",
+        "zones": [
+            "Pandala Feu"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 283
+    },
+    {
+        "id": 622,
+        "name": "Tromplamor le Survivant",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 285
+    },
+    {
+        "id": 623,
+        "name": "Chamoute le Duveteux",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 286
+    },
+    {
+        "id": 624,
+        "name": "Fansissla l'Ane",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 290
+    },
+    {
+        "id": 625,
+        "name": "Fanstatik l'Etonnant",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 291
+    },
+    {
+        "id": 626,
+        "name": "Champoul l'Illumin\u00e9",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 287
+    },
+    {
+        "id": 627,
+        "name": "Champolyon le Polyglotte",
+        "zones": [],
+        "step": 33,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 628,
+        "name": "Champm\u00e9 le M\u00e9chant",
+        "zones": [
+            "Cave des Fungus"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 289
+    },
+    {
+        "id": 629,
+        "name": "Fandouich l'Hautain",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 292
+    },
+    {
+        "id": 630,
+        "name": "Fanhopruno le Gourmet",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 33,
+        "type": "archi",
+        "base": 293
+    },
+    {
+        "id": 631,
+        "name": "Pandive le V\u00e9g\u00e9tarien",
+        "zones": [
+            "Pandala"
+        ],
+        "step": 34,
+        "type": "archi",
+        "base": 296
+    },
+    {
+        "id": 632,
+        "name": "Roy le Merlin",
+        "zones": [
+            "Tourbi\u00e8re"
+        ],
+        "step": 34,
+        "type": "archi",
+        "base": 297
+    },
+    {
+        "id": 633,
+        "name": "Fanlagoel le Comique",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 34,
+        "type": "archi",
+        "base": 294
+    },
+    {
+        "id": 634,
+        "name": "Fantassein le Soldat",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 34,
+        "type": "archi",
+        "base": 295
+    },
+    {
+        "id": 635,
+        "name": "Fanburn le Viril",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 34,
+        "type": "archi",
+        "base": 299
+    },
+    {
+        "id": 636,
+        "name": "Fansiss le Br\u00eale",
+        "zones": [
+            "\u00cele de Grobe"
+        ],
+        "step": 34,
+        "type": "archi",
+        "base": 298
+    }
+]
