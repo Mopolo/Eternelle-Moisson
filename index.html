@@ -134,7 +134,15 @@
 
                 <div ng-if="appCtrl.sorting == 1">
                     <div class="panel panel-default" ng-repeat="(zone, monsters) in appCtrl.zones">
-                        <div class="panel-heading">{{ zone }}</div>
+                        <div class="panel-heading">
+                            {{ zone }} ({{ appCtrl.owned(false, zone) }}/{{ appCtrl.total(false, zone) }})
+
+                            <div class="pull-right">
+                                <button class="btn btn-info btn-xs" ng-click="appCtrl.toggleZone(zone)">
+                                    Tout <span ng-if="appCtrl.owned(false, zone) == appCtrl.total(false, zone)">dé</span>cocher
+                                </button>
+                            </div>
+                        </div>
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
@@ -163,7 +171,15 @@
 
                 <div ng-if="appCtrl.sorting == 2">
                     <div class="panel panel-default" ng-repeat="(step, monsters) in appCtrl.steps" ng-show="monsters.length">
-                        <div class="panel-heading">Étape {{ step }}</div>
+                        <div class="panel-heading">
+                            Étape {{ step }} ({{ appCtrl.owned(false, false, step) }}/{{ appCtrl.total(false, false, step) }})
+
+                            <div class="pull-right">
+                                <button class="btn btn-info btn-xs" ng-click="appCtrl.toggleStep(step)">
+                                    Tout <span ng-if="appCtrl.owned(false, false, step) == appCtrl.total(false, false, step)">dé</span>cocher
+                                </button>
+                            </div>
+                        </div>
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
