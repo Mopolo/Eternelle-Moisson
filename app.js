@@ -133,11 +133,11 @@
                 return '??';
             }
 
-            var steps = vm.monsters.map(function(monster) {
+            return vm.monsters.map(function(monster) {
                 return monster.step;
-            }).filter();
-
-            return steps.filter(function(step) {
+            }).sort().filter(function(step, index, steps) {
+                return index == steps.indexOf(step);
+            }).filter(function(step) {
                 return vm.ownedPercentage(false, false, step) == 100;
             }).length;
         };
