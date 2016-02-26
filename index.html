@@ -45,6 +45,8 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#" data-toggle="modal" data-target="#saveModal">Sauvegarde</a></li>
+                    <li><a href="#" data-toggle="modal" data-target="#helpModal">Aide</a></li>
+                    <li><a href="#" data-toggle="modal" data-target="#aboutModal">A propos</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
@@ -223,32 +225,98 @@
     <div class="modal fade" id="saveModal" tabindex="-1" role="dialog" aria-labelledby="saveModalLabel">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="saveModalLabel">Gestion de la sauvegarde</h4>
-            </div>
-            <div class="modal-body">
-                <div class="form-group">
-                    <label for="inputSave">Sauvegarde actuelle</label>
-                    <input type="text" name="save" id="inputSave" class="form-control" ng-model="appCtrl.saveData" />
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="saveModalLabel">Gestion de la sauvegarde</h4>
                 </div>
-
-                <hr />
-
-                <div class="form-group">
-                    <label for="inputLoad">Charger une sauvegarde</label>
-                    <div class="input-group">
-                        <input type="text" name="load" id="inputLoad" class="form-control" ng-model="appCtrl.loadData" />
-                        <span class="input-group-btn">
-                            <button class="btn btn-warning" type="button" ng-click="appCtrl.load()" ng-disabled="!appCtrl.loadData.length">Charger</button>
-                        </span>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="inputSave">Sauvegarde actuelle</label>
+                        <input type="text" name="save" id="inputSave" class="form-control" ng-model="appCtrl.saveData" />
                     </div>
-                </div>
 
-                <p class="text-danger" ng-show="appCtrl.loadData.length">Attention ! Charger une sauvegarde effacera les données actuelles.</p>
+                    <hr />
+
+                    <div class="form-group">
+                        <label for="inputLoad">Charger une sauvegarde</label>
+                        <div class="input-group">
+                            <input type="text" name="load" id="inputLoad" class="form-control" ng-model="appCtrl.loadData" />
+                            <span class="input-group-btn">
+                                <button class="btn btn-warning" type="button" ng-click="appCtrl.load()" ng-disabled="!appCtrl.loadData.length">Charger</button>
+                            </span>
+                        </div>
+                    </div>
+
+                    <p class="text-danger" ng-show="appCtrl.loadData.length">Attention ! Charger une sauvegarde effacera les données actuelles.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+                </div>
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+        </div>
+    </div>
+
+    <div class="modal fade" id="helpModal" tabindex="-1" role="dialog" aria-labelledby="helpModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="helpModalLabel">Aide</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        Cet outils permet de faciliter la gestion de la quête du Dofus Ocre.
+                    </p>
+
+                    <p>
+                        Pour ajouter ou supprimer un monstre il suffit de cliquer sur sa ligne.<br />
+                        La sauvegarde se fait automatiquement et il n'y a pas besoin de compte.<br />
+                        Les données sont enregistrées localement dans le navigateur. Vous pouvez donc fermer la page
+                        et revenir plus tard.
+                    </p>
+
+                    <p>
+                        Si vous changez de navigateur vous pouvez exporter la sauvegarde pour la charger plus tard.
+                    </p>
+
+                    <p>
+                        Si vous trouvez un bug, avez une idée ou si la liste des monstres n'est pas à jour,
+                        contribuez sur <a href="https://github.com/Mopolo/Eternelle-Moisson">Github</a> en faisant
+                        une Pull Request ou en créant une issue.
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="aboutModalLabel">A Propos</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        Ce site est libre et open source sur <a href="https://github.com/Mopolo/Eternelle-Moisson">Github</a>
+                        et est écrit en AngularJS (version 1.x).
+                    </p>
+
+                    <p>
+                        Les contributions sont les bienvenues.
+                    </p>
+
+                    <p>
+                        Le code source est distribué sous licence MIT, vous avez donc le droit de le copier/modifier/distribuer
+                        et de l'héberger vous même si vous préférez.
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+                </div>
             </div>
         </div>
     </div>
