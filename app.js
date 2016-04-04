@@ -162,6 +162,22 @@
             locker.put('displayFinishedSteps', vm.displayFinishedSteps);
         }
 
+        vm.resetAll = function() {
+            if (confirm('Dernière chance !')) {
+                locker.clean();
+
+                vm.sorting = 0;
+                vm.saveData = null;
+                vm.displayFinishedZones = true;
+                vm.displayFinishedSteps = true;
+                vm.zones = {};
+                vm.steps = [];
+                vm.monsters = [];
+
+                $('#saveModal').modal('hide');
+            }
+        };
+
         $http.get('monsters.json').then(function(res) {
             vm.monsters = res.data;
 
