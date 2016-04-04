@@ -135,7 +135,12 @@
                 </table>
 
                 <div ng-if="appCtrl.sorting == 1">
-                    <div class="panel panel-default" ng-repeat="(zone, monsters) in appCtrl.zones">
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" ng-model="appCtrl.displayFinishedZones" ng-change="appCtrl.toggleFinishedZones()" /> Masquer les zones terminées
+                        </label>
+                    </div>
+                    <div class="panel panel-default" ng-repeat="(zone, monsters) in appCtrl.zones" ng-hide="appCtrl.displayFinishedZones && appCtrl.owned(false, zone) == appCtrl.total(false, zone)">
                         <div class="panel-heading">
                             {{ zone }} ({{ appCtrl.owned(false, zone) }}/{{ appCtrl.total(false, zone) }})
 
@@ -172,7 +177,12 @@
                 </div>
 
                 <div ng-if="appCtrl.sorting == 2">
-                    <div class="panel panel-default" ng-repeat="(step, monsters) in appCtrl.steps" ng-show="monsters.length">
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" ng-model="appCtrl.displayFinishedSteps" ng-change="appCtrl.toggleFinishedSteps()" /> Masquer les étapes terminées
+                        </label>
+                    </div>
+                    <div class="panel panel-default" ng-repeat="(step, monsters) in appCtrl.steps" ng-hide="step == 0 || (appCtrl.displayFinishedSteps && appCtrl.owned(false, false, step) == appCtrl.total(false, false, step))">
                         <div class="panel-heading">
                             Étape {{ step }} ({{ appCtrl.owned(false, false, step) }}/{{ appCtrl.total(false, false, step) }})
 

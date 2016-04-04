@@ -9,6 +9,8 @@
         vm.totalSteps = 34;
         vm.sorting = locker.get('sorting', 0);
         vm.saveData = locker.get('save');
+        vm.displayFinishedZones = locker.get('displayFinishedZones', true);
+        vm.displayFinishedSteps = locker.get('displayFinishedSteps', true);
 
         vm.isOwned = function(monster) {
             if (!vm.saveData || !monster) {
@@ -151,6 +153,14 @@
 
             locker.put('sorting', sorting);
         };
+
+        vm.toggleFinishedZones = function() {
+            locker.put('displayFinishedZones', vm.displayFinishedZones);
+        }
+
+        vm.toggleFinishedSteps = function() {
+            locker.put('displayFinishedSteps', vm.displayFinishedSteps);
+        }
 
         $http.get('monsters.json').then(function(res) {
             vm.monsters = res.data;
