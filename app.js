@@ -7,7 +7,7 @@
         var vm = this;
 
         vm.totalSteps = 34;
-        vm.sorting = 0;
+        vm.sorting = locker.get('sorting', 0);
         vm.saveData = locker.get('save');
 
         vm.isOwned = function(monster) {
@@ -144,6 +144,12 @@
 
         vm.completedStepsPercentage = function() {
             return Math.ceil(vm.completedSteps() * 100 / vm.totalSteps);
+        };
+
+        vm.chooseSorting = function(sorting) {
+            vm.sorting = sorting;
+
+            locker.put('sorting', sorting);
         };
 
         $http.get('monsters.json').then(function(res) {
