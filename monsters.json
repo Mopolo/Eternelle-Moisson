@@ -1070,15 +1070,6 @@
         "type": "monster"
     },
     {
-        "id": 110,
-        "name": "Scaratos",
-        "zones": [
-            "\u00cele du Minotoror"
-        ],
-        "step": 6,
-        "type": "monster"
-    },
-    {
         "id": 111,
         "name": "Boomba",
         "zones": [
