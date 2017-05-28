@@ -457,7 +457,7 @@
         "id": 46,
         "name": "Citwouille",
         "zones": [
-            "Labyrinthe du DV"
+            "Labyrinthe du Dark Vlad"
         ],
         "step": 3,
         "type": "monster"
@@ -744,7 +744,7 @@
         "id": 75,
         "name": "Noeul",
         "zones": [
-            "Labyrinthe du DV"
+            "Labyrinthe du Dark Vlad"
         ],
         "step": 4,
         "type": "monster"
@@ -1905,7 +1905,7 @@
         "id": 200,
         "name": "Chiendent",
         "zones": [
-            "Jungle Obcure"
+            "Jungle Obscure"
         ],
         "step": 11,
         "type": "monster"
@@ -3641,7 +3641,7 @@
         "id": 393,
         "name": "Citassat\u00e9 le Service",
         "zones": [
-            "Labyrinthe du DV"
+            "Labyrinthe du Dark Vlad"
         ],
         "step": 22,
         "type": "archi",
@@ -3961,7 +3961,7 @@
         "id": 423,
         "name": "Neufedur le Flottant",
         "zones": [
-            "Labyrinthe du DV"
+            "Labyrinthe du Dark Vlad"
         ],
         "step": 23,
         "type": "archi",
@@ -5183,7 +5183,7 @@
         "id": 544,
         "name": "Chiendanl\u00e9min l'Illusionniste",
         "zones": [
-            "Jungle Obcure"
+            "Jungle Obscure"
         ],
         "step": 29,
         "type": "archi",
