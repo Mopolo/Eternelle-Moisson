@@ -7,7 +7,7 @@ L'outil est actuellement en beta.
 Une liste des fonctionnalités prévues est disponible ici : https://github.com/Mopolo/Eternelle-Moisson/milestones/Version%201
 
 ## Utilisation
-Il est utilisable soit en ligne : http://mopolo.github.io/Eternelle-Moisson
+Il est utilisable soit en ligne : https://mopolo.github.io/Eternelle-Moisson/
 
 Soit en l'hébergeant soit même.
 
