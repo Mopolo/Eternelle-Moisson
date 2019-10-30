@@ -125,6 +125,7 @@
                             <tr>
                                 <th style="width:50px;">Possédé</th>
                                 <th>Nom</th>
+                                <th>Étape</th>
                                 <th>Zones</th>
                             </tr>
                         </thead>
@@ -137,6 +138,7 @@
                                     <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>
                                     {{ monster.name }}
                                 </td>
+                                <td>{{ monster.step }}</td>
                                 <td>
                                     <span class="label label-primary" ng-repeat="zone in monster.zones">{{ zone }}</span>
                                 </td>
@@ -167,6 +169,7 @@
                                 <tr>
                                     <th style="width:50px;">Possédé</th>
                                     <th>Nom</th>
+                                    <th>Étape</th>
                                     <th>Zones</th>
                                 </tr>
                             </thead>
@@ -179,6 +182,7 @@
                                         <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>
                                         {{ monster.name }}
                                     </td>
+                                    <td>{{ monster.step }}</td>
                                     <td>
                                         <span class="label label-primary" ng-repeat="zone in monster.zones">{{ zone }}</span>
                                     </td>
