@@ -119,8 +119,15 @@
                         </tr>
                     </thead>
 
+<div ng-if="appCtrl.sorting == 0">
+    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" ng-model="appCtrl.displayOwnedMonsters" ng-change="appCtrl.toggleOwnedMonsters()" /> Masquer les monstres possédés
+                        </label>
+                </div>
+  </div>
                     <tbody>
-                        <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name'" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)">
+                        <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name'" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)" ng-hide="appCtrl.displayOwnedMonsters && appCtrl.isOwned(monster)">
                             <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
                             <td>
                                 <i class="glyphicon glyphicon-star" ng-if="monster.type == 'boss'"></i>
