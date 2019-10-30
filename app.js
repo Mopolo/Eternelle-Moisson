@@ -9,7 +9,7 @@
         vm.totalSteps = 34;
         vm.sorting = locker.get('sorting', 0);
         vm.saveData = locker.get('save');
-	vm.displayOwnedMonsters = locker.get('displayOwnedMonsters', true);
+        vm.displayOwnedMonsters = locker.get('displayOwnedMonsters', true);
         vm.displayFinishedZones = locker.get('displayFinishedZones', true);
         vm.displayFinishedSteps = locker.get('displayFinishedSteps', true);
 
@@ -156,7 +156,7 @@
         };
 
 
-        vm.toggleFinishedZones = function() {
+        vm.toggleOwnedMonsters = function() {
             locker.put('displayOwnedMonsters', vm.displayOwnedMonsters);
         }
 
@@ -174,7 +174,7 @@
 
                 vm.sorting = 0;
                 vm.saveData = null;
-		vm.displayOwnedMonsters = true;
+                vm.displayOwnedMonsters = true;
                 vm.displayFinishedZones = true;
                 vm.displayFinishedSteps = true;
                 vm.zones = {};
