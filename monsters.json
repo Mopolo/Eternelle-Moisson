@@ -2083,25 +2083,25 @@
     },
     {
         "id": 220,
-        "name": "Dragoeuf dor\u00e9 \u00e9veill\u00e9",
+        "name": "Bourard",
         "zones": [
-            "Presqu'\u00eele des Dragoeufs"
+            "Champs de Cania"
         ],
         "step": 12,
         "type": "monster"
     },
     {
         "id": 221,
-        "name": "Dragoeuf noir \u00e9veill\u00e9",
+        "name": "Foufayteur",
         "zones": [
-            "Presqu'\u00eele des Dragoeufs"
+            "Plaines de Cania"
         ],
         "step": 12,
         "type": "monster"
     },
     {
         "id": 222,
-        "name": "Dragoeuf de saphir \u00e9veill\u00e9",
+        "name": "Dragoeuf albâtre",
         "zones": [
             "Presqu'\u00eele des Dragoeufs"
         ],
