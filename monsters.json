@@ -3651,9 +3651,6 @@
         "id": 394,
         "name": "Vampunor le Glacial",
         "zones": [
-            "Cimeti\u00e8res d'Amakna",
-            "Bonta",
-            "Brakm\u00e2r",
             "Cryptes"
         ],
         "step": 22,
@@ -3908,8 +3905,6 @@
         "id": 418,
         "name": "Ma\u00eetre Amboat le Moqueur",
         "zones": [
-            "Cimeti\u00e8res de Bonta",
-            "Brakm\u00e2r",
             "Cryptes"
         ],
         "step": 23,
