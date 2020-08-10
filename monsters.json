@@ -2273,7 +2273,7 @@
     },
     {
         "id": 241,
-        "name": "Dragoeuf guerrier",
+        "name": "Dragnarok",
         "zones": [
             "Sanctuaire des Dragoeufs"
         ],
@@ -2282,7 +2282,7 @@
     },
     {
         "id": 242,
-        "name": "Dragoeuf volant",
+        "name": "Draguaindrop",
         "zones": [
             "Sanctuaire des Dragoeufs"
         ],
@@ -2291,36 +2291,36 @@
     },
     {
         "id": 243,
-        "name": "Aerohouctor le guerrier",
+        "name": "Bizarbwork",
         "zones": [
-            "Souterrains de la presqu'\u00eele des Dragoeufs"
+            "Pics de Cania"
         ],
         "step": 13,
         "type": "monster"
     },
     {
         "id": 244,
-        "name": "Aquabralak le guerrier",
+        "name": "Krambwork",
         "zones": [
-            "Souterrains de la presqu'\u00eele des Dragoeufs"
+            "Pics de Cania"
         ],
         "step": 13,
         "type": "monster"
     },
     {
         "id": 245,
-        "name": "Ignelicrobur le guerrier",
+        "name": "M\u00e9dibwork",
         "zones": [
-            "Souterrains de la presqu'\u00eele des Dragoeufs"
+            "Pics de Cania"
         ],
         "step": 13,
         "type": "monster"
     },
     {
         "id": 246,
-        "name": "Terrakoubiak le guerrier",
+        "name": "M\u00e9gabwork",
         "zones": [
-            "Souterrains de la presqu'\u00eele des Dragoeufs"
+            "Pics de Cania"
         ],
         "step": 13,
         "type": "monster"
