@@ -2498,7 +2498,7 @@
     },
     {
         "id": 266,
-        "name": "Soryo firefoux",
+        "name": "Rouquette",
         "zones": [
             "Feudala"
         ],
@@ -2507,16 +2507,16 @@
     },
     {
         "id": 267,
-        "name": "Kitsou nufeu",
+        "name": "Tétonuki",
         "zones": [
-            "Pandala"
+            "Terrdala"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 268,
-        "name": "Maho firefoux",
+        "name": "Boumbardier",
         "zones": [
             "Feudala"
         ],
@@ -2561,43 +2561,43 @@
     },
     {
         "id": 273,
-        "name": "Ignerkocropos l'affam\u00e9",
+        "name": "Malle Outilliée",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 274,
-        "name": "Terraburkal le perfide",
+        "name": "Robot Fléau",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 275,
-        "name": "Aqualikros l'impitoyable",
+        "name": "Robot Pousse-Pousse",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 276,
-        "name": "Aerotrugobur le malveillant",
+        "name": "Robionicle",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 277,
-        "name": "Trooll",
+        "name": "Troollaraj",
         "zones": [
             "Bois de Litneg"
         ],
