@@ -2462,36 +2462,36 @@
     },
     {
         "id": 262,
-        "name": "Dragoss Blanc \u00e9veil\u00e9",
+        "name": "Dragoss Calcaire",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 263,
-        "name": "Dragoss dor\u00e9 \u00c9veill\u00e9",
+        "name": "Dragoss Argile",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 264,
-        "name": "Dragoss noir \u00c9veill\u00e9",
+        "name": "Dragoss Charbon",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 265,
-        "name": "Dragoss de saphir \u00c9veill\u00e9",
+        "name": "Dragoss Ardoise",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
