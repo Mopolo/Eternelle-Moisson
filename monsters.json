@@ -2462,43 +2462,43 @@
     },
     {
         "id": 262,
-        "name": "Dragoss Blanc \u00e9veil\u00e9",
+        "name": "Dragoss Calcaire",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 263,
-        "name": "Dragoss dor\u00e9 \u00c9veill\u00e9",
+        "name": "Dragoss Argile",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 264,
-        "name": "Dragoss noir \u00c9veill\u00e9",
+        "name": "Dragoss Charbon",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 265,
-        "name": "Dragoss de saphir \u00c9veill\u00e9",
+        "name": "Dragoss Ardoise",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Village des Dragoeufs (Amakna)"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 266,
-        "name": "Soryo firefoux",
+        "name": "Rouquette",
         "zones": [
             "Feudala"
         ],
@@ -2507,16 +2507,16 @@
     },
     {
         "id": 267,
-        "name": "Kitsou nufeu",
+        "name": "Tétonuki",
         "zones": [
-            "Pandala"
+            "Terrdala"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 268,
-        "name": "Maho firefoux",
+        "name": "Boumbardier",
         "zones": [
             "Feudala"
         ],
@@ -2561,43 +2561,43 @@
     },
     {
         "id": 273,
-        "name": "Ignerkocropos l'affam\u00e9",
+        "name": "Malle Outilliée",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 274,
-        "name": "Terraburkal le perfide",
+        "name": "Robot Fléau",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 275,
-        "name": "Aqualikros l'impitoyable",
+        "name": "Robot Pousse-Pousse",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 276,
-        "name": "Aerotrugobur le malveillant",
+        "name": "Robionicle",
         "zones": [
-            "Sanctuaire des Dragoeufs"
+            "Massif de Cania"
         ],
         "step": 14,
         "type": "monster"
     },
     {
         "id": 277,
-        "name": "Trooll",
+        "name": "Troollaraj",
         "zones": [
             "Bois de Litneg"
         ],
