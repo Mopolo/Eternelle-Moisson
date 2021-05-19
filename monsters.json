@@ -1537,7 +1537,7 @@
       "id":158,
       "name":"Fangshu",
       "zones":[
-         "Airdala"
+         "Aerdala"
       ],
       "step":8,
       "type":"monster"
@@ -1574,7 +1574,7 @@
       "id":162,
       "name":"Ino-Naru",
       "zones":[
-         "Airdala"
+         "Aerdala"
       ],
       "step":9,
       "type":"monster"
@@ -5665,7 +5665,7 @@
       "id":574,
       "name":"Inopenope le N\u00e9gatif",
       "zones":[
-         "Airdala"
+         "Aerdala"
       ],
       "step":31,
       "type":"archi",
@@ -6014,7 +6014,7 @@
       "id":608,
       "name":"Fangshui la Dysorthographi\u00e9e",
       "zones":[
-         "Airdala"
+         "Aerdala"
       ],
       "step":32,
       "type":"archi",
