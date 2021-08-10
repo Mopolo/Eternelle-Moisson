@@ -40,8 +40,7 @@
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li ng-class="{active: appCtrl.sorting == 0}"><a href="#" ng-click="appCtrl.chooseSorting(0)">Ordre alphabétique</a></li>
-                    <li ng-class="{active: appCtrl.sorting == 1}"><a href="#" ng-click="appCtrl.chooseSorting(1)">Zones</a></li>
-                    <li ng-class="{active: appCtrl.sorting == 2}"><a href="#" ng-click="appCtrl.chooseSorting(2)">Étapes</a></li>
+                    <li ng-class="{active: appCtrl.sorting == 1}"><a href="#" ng-click="appCtrl.chooseSorting(1)">Tri par type</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#" data-toggle="modal" data-target="#saveModal">Sauvegarde</a></li>
@@ -58,16 +57,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="row">
-                            <div class="col-xs-12 col-sm-3">
-                                Monstres : {{ appCtrl.owned('monster') }}/{{ appCtrl.total('monster') }}
-
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-primary progress-bar-striped" role="progressbar" aria-valuenow="{{ appCtrl.ownedPercentage('monster') }}" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: {{ appCtrl.ownedPercentage('monster') }}%;">
-                                    {{ appCtrl.ownedPercentage('monster') }}%
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3">
+                            <div class="col-xs-12 col-sm-6">
                                 Boss : {{ appCtrl.owned('boss') }}/{{ appCtrl.total('boss') }}
 
                                 <div class="progress">
@@ -76,17 +66,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-sm-3">
+                            <div class="col-xs-12 col-sm-6">
                                 Archimonstres : {{ appCtrl.owned('archi') }}/{{ appCtrl.total('archi') }}
-
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-primary progress-bar-striped" role="progressbar" aria-valuenow="{{ appCtrl.ownedPercentage('archi') }}" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: {{ appCtrl.ownedPercentage('archi') }}%;">
-                                    {{ appCtrl.ownedPercentage('archi') }}%
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3">
-                                Etapes : {{ appCtrl.completedSteps() }}/{{ appCtrl.totalSteps }}
 
                                 <div class="progress">
                                     <div class="progress-bar progress-bar-primary progress-bar-striped" role="progressbar" aria-valuenow="{{ appCtrl.ownedPercentage('archi') }}" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: {{ appCtrl.ownedPercentage('archi') }}%;">
