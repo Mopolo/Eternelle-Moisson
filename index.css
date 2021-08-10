@@ -8,4 +8,5 @@ body{
 .panel-default>.panel-heading {
     background-color: #524A41;
     border-color: #dddddd;
+    color: #f5f5f5;
 }
