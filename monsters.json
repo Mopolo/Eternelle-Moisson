@@ -3,7 +3,7 @@
         "id": 300,
         "name": "Mob l'Éponge",
         "zones": [
-            "Boss"
+            "Test1"
         ],
         "step": 17,
         "type": "boss"
@@ -12,7 +12,7 @@
         "id": 301,
         "name": "Bouftou Royal",
         "zones": [
-            "Boss"
+            "Test2"
         ],
         "step": 17,
         "type": "boss"
@@ -3302,7 +3302,7 @@
         "id": 635,
         "name": "Madgang le Docteur",
         "zones": [
-            "Archi-monstre"
+            "Test4"
         ],
         "step": 34,
         "type": "archi",
@@ -3312,7 +3312,7 @@
         "id": 636,
         "name": "Tsumani l'Inondeur",
         "zones": [
-            "Archi-monstre"
+            "Test3"
         ],
         "step": 34,
         "type": "archi",

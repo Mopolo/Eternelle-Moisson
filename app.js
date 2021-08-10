@@ -178,14 +178,16 @@
                 vm.displayFinishedZones = true;
                 vm.displayFinishedSteps = true;
                 vm.zones = {};
+                vm.type = {};
                 vm.steps = [];
                 vm.monsters = [];
 
                 $('#saveModal').modal('hide');
             }
         };
-
-        $http.get('monsters.json').then(function(res) {
+        
+        $http.get('https://raw.githubusercontent.com/ayxiir/Eternelle-Moisson/gh-pages/monsters.json').then(function(res) {
+        //$http.get('monsters.json').then(function(res) {
             vm.monsters = res.data;
 
             vm.zones = {};
