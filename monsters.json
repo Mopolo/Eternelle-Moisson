@@ -174,7 +174,7 @@
         "id": 320,
         "name": "Hell Mina",
         "zones": [
-            "Labyrinthe du Dark Vlad"
+            "Forêt maléfique"
         ],
         "step": 18,
         "type": "boss"
@@ -3239,8 +3239,7 @@
         "id": 624,
         "name": "Jiankor le Radoteur",
         "zones": [
-            "Cimetière de Grobe",
-            "Île de Grobe"
+            "Cimetière de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -3250,8 +3249,7 @@
         "id": 625,
         "name": "Onabuémangé la Rassasiée",
         "zones": [
-            "Cimetière de Grobe",
-            "Île de Grobe"
+            "Cimetière de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -3292,8 +3290,7 @@
         "id": 629,
         "name": "Tambouille le Gastronome",
         "zones": [
-            "Cimetière de Grobe",
-            "Île de Grobe"
+            "Cimetière de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -3303,8 +3300,7 @@
         "id": 630,
         "name": "Tsucékoi la Colporteuse",
         "zones": [
-            "Cimetière de Grobe",
-            "Île de Grobe"
+            "Cimetière de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -3334,8 +3330,7 @@
         "id": 633,
         "name": "Bakaglace le Congelé",
         "zones": [
-            "Mont des Tombeaux",
-            "Île de Grobe"
+            "Mont des Tombeaux"
         ],
         "step": 34,
         "type": "archi",
@@ -3345,8 +3340,7 @@
         "id": 634,
         "name": "Kaonucléair l'Instable",
         "zones": [
-            "Mont des Tombeaux",
-            "Île de Grobe"
+            "Mont des Tombeaux"
         ],
         "step": 34,
         "type": "archi",
@@ -3356,8 +3350,7 @@
         "id": 635,
         "name": "Madgang le Docteur",
         "zones": [
-            "Mont des Tombeaux",
-            "Île de Grobe"
+            "Mont des Tombeaux"
         ],
         "step": 34,
         "type": "archi",
@@ -3367,8 +3360,7 @@
         "id": 636,
         "name": "Tsumani l'Inondeur",
         "zones": [
-            "Mont des Tombeaux",
-            "Île de Grobe"
+            "Mont des Tombeaux"
         ],
         "step": 34,
         "type": "archi",
