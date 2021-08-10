@@ -1,0 +1,11 @@
+body{
+    background-color: #201d1a;
+    color: #f5f5f5;
+}
+.table-bordered{
+    background-color: #675d51;
+}
+.panel-default>.panel-heading {
+    background-color: #524A41;
+    border-color: #dddddd;
+}
