@@ -10,3 +10,12 @@ body{
     border-color: #dddddd;
     color: #f5f5f5;
 }
+
+.table>thead>tr>td.success, .table>tbody>tr>td.success, .table>tfoot>tr>td.success, .table>thead>tr>th.success, .table>tbody>tr>th.success, .table>tfoot>tr>th.success, .table>thead>tr.success>td, .table>tbody>tr.success>td, .table>tfoot>tr.success>td, .table>thead>tr.success>th, .table>tbody>tr.success>th, .table>tfoot>tr.success>th {
+    background-color: #ffddbc;
+    color: #000000;
+}
+.modal-content{
+    background-color: #201d1a;
+    color: #f5f5f5;
+}
