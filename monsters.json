@@ -3922,9 +3922,9 @@
     },
     {
         "id": 407,
-        "name": "Robiolego l'Assembl\u00e9",
+        "name": "Bulleur le Dormeur",
         "zones": [
-            "Massif de Cania"
+            "Pandala"
         ],
         "step": 22,
         "type": "archi",
@@ -4043,9 +4043,9 @@
     },
     {
         "id": 419,
-        "name": "Robocoop l'\u00e9chang\u00e9",
+        "name": "Buldeflore le Pénétrant",
         "zones": [
-            "Massif de Cania"
+            "Pandala"
         ],
         "step": 23,
         "type": "archi",
@@ -4224,9 +4224,9 @@
     },
     {
         "id": 436,
-        "name": "Mallopi\u00e9e l'\u00e9pineuse",
+        "name": "Kitsoupierre le Récipient",
         "zones": [
-            "Massif de Cania"
+            "Pandala"
         ],
         "step": 24,
         "type": "archi",
@@ -4464,13 +4464,9 @@
     },
     {
         "id": 459,
-        "name": "Larvomatik le Propre",
+        "name": "Picht le Brioché",
         "zones": [
-            "Bord de la for\u00eat mal\u00e9fique",
-            "C\u00f4te d'Asse",
-            "Port de Madrestam",
-            "Prairies d'Astrub",
-            "Rivi\u00e8re Kawaii"
+            "Calanques d'Astrub"
         ],
         "step": 25,
         "type": "archi",
@@ -4613,9 +4609,9 @@
     },
     {
         "id": 473,
-        "name": "Floriste la Cannibale",
+        "name": "Arakozette l'intrépide",
         "zones": [
-            "Plantala"
+            "Pandala"
         ],
         "step": 26,
         "type": "archi",
@@ -4636,8 +4632,7 @@
         "id": 475,
         "name": "Grandilok le Clameur",
         "zones": [
-            "\u00celot de la Couronne",
-            "\u00celot de Waldo"
+            "Île de la Cawotte"
         ],
         "step": 26,
         "type": "archi",
@@ -4645,10 +4640,9 @@
     },
     {
         "id": 476,
-        "name": "Wok\u00e8nr\u00f4l le Danseur",
+        "name": "Wokenrol le Danseur",
         "zones": [
-            "\u00celot de la Couronne",
-            "\u00celot de Waldo"
+            "Île de la Cawotte"
         ],
         "step": 26,
         "type": "archi",
@@ -4948,9 +4942,9 @@
     },
     {
         "id": 504,
-        "name": "Koko la Violente",
+        "name": "Pandimaensh l'Animateur",
         "zones": [
-            "Akwadala"
+            "Pandala"
         ],
         "step": 27,
         "type": "archi",
@@ -4989,9 +4983,9 @@
     },
     {
         "id": 508,
-        "name": "Grenuche la Gentille",
+        "name": "Pandimy le Contagieux",
         "zones": [
-            "Plantala"
+            "Pandala"
         ],
         "step": 27,
         "type": "archi",
@@ -5039,9 +5033,9 @@
     },
     {
         "id": 513,
-        "name": "Sarkastik l'Incompris",
+        "name": "Pandanlagl la Saoule",
         "zones": [
-            "Akwadala"
+            "Pandala"
         ],
         "step": 28,
         "type": "archi",
@@ -5093,9 +5087,9 @@
     },
     {
         "id": 518,
-        "name": "Kwak\u00e9 le Pirat\u00e9",
+        "name": "Dragstik le Frustre",
         "zones": [
-            "Montagne des Craqueleurs"
+            "Dragoeufs"
         ],
         "step": 28,
         "type": "archi",
@@ -5103,9 +5097,9 @@
     },
     {
         "id": 519,
-        "name": "Kwakwatique le Tremp\u00e9",
+        "name": "Dragtula l'Ancien",
         "zones": [
-            "Montagne des Craqueleurs"
+            "Dragoeufs"
         ],
         "step": 28,
         "type": "archi",
@@ -5113,9 +5107,9 @@
     },
     {
         "id": 520,
-        "name": "Kwakolak le Chocolat\u00e9",
+        "name": "Dragsta le Détendu",
         "zones": [
-            "Montagne des Craqueleurs"
+            "Dragoeufs"
         ],
         "step": 28,
         "type": "archi",
@@ -5123,9 +5117,9 @@
     },
     {
         "id": 521,
-        "name": "Kwakamole l'App\u00e9tissant",
+        "name": "Dragstore le Généraliste",
         "zones": [
-            "Montagne des Craqueleurs"
+            "Dragoeufs"
         ],
         "step": 28,
         "type": "archi",
@@ -5133,10 +5127,9 @@
     },
     {
         "id": 522,
-        "name": "Porsal\u00e9 le R\u00e2leur",
+        "name": "Dragtopaile l'Excavateur",
         "zones": [
-            "Territoire des Porcos",
-            "Labyrinthe du Dragon Cochon"
+            "Dragoeufs"
         ],
         "step": 28,
         "type": "archi",
@@ -5154,9 +5147,9 @@
     },
     {
         "id": 524,
-        "name": "V\u00e9taurine l'\u00e9nergis\u00e9",
+        "name": "Dragalgan l'Effervescent",
         "zones": [
-            "Routes Rocailleuses"
+            "Dragoeufs"
         ],
         "step": 28,
         "type": "archi",
@@ -5164,9 +5157,9 @@
     },
     {
         "id": 525,
-        "name": "Moumoute la Douce",
+        "name": "Dragybuss le Sucré",
         "zones": [
-            "Rivages sufokien"
+            "Dragoeufs"
         ],
         "step": 28,
         "type": "archi",
@@ -5174,9 +5167,9 @@
     },
     {
         "id": 526,
-        "name": "Parapadkou\u00ef l'\u00e9mascul\u00e9",
+        "name": "Léopolnor le Barde",
         "zones": [
-            "Terrdala"
+            "Pandala"
         ],
         "step": 28,
         "type": "archi",
@@ -5184,16 +5177,6 @@
     },
     {
         "id": 527,
-        "name": "Bebetto l'Intellectuel",
-        "zones": [
-            "Akwadala"
-        ],
-        "step": 28,
-        "type": "archi",
-        "base": 185
-    },
-    {
-        "id": 528,
         "name": "Serpistule le Purulent",
         "zones": [
             "Labyrinthe du Minotoror"
@@ -5203,10 +5186,20 @@
         "base": 180
     },
     {
-        "id": 529,
-        "name": "Akaka le Souill\u00e9",
+        "id": 528,
+        "name": "Kitsoudbra le Malodorant",
         "zones": [
-            "Akwadala"
+            "Pandala"
+        ],
+        "step": 28,
+        "type": "archi",
+        "base": 185
+    },
+    {
+        "id": 529,
+        "name": "Pandouille le Titubant",
+        "zones": [
+            "Pandala"
         ],
         "step": 28,
         "type": "archi",
@@ -5224,9 +5217,9 @@
     },
     {
         "id": 531,
-        "name": "Tilolo la Bien Moul\u00e9e",
+        "name": "Cooligane le Nevrosé",
         "zones": [
-            "Terrdala"
+            "Pandala"
         ],
         "step": 29,
         "type": "archi",
@@ -5457,10 +5450,9 @@
     },
     {
         "id": 554,
-        "name": "Alhoui le R\u00e9pondeur",
+        "name": "Fanfancisco le Cosmopolite",
         "zones": [
-            "Dents de Pierre",
-            "Village des Kanigs"
+            "L'île de Grobe"
         ],
         "step": 30,
         "type": "archi",
@@ -5468,10 +5460,9 @@
     },
     {
         "id": 555,
-        "name": "Pantacour le Long",
+        "name": "Fanjipann le Sucré Fantôme",
         "zones": [
-            "Dents de Pierre",
-            "Village des Kanigs"
+            "L'île de Grobe"
         ],
         "step": 30,
         "type": "archi",
@@ -5479,10 +5470,9 @@
     },
     {
         "id": 556,
-        "name": "Orf\u00e9lyre le Charmeur",
+        "name": "Fanhatur le Simple Fantôme",
         "zones": [
-            "Dents de Pierre",
-            "Village des Kanigs"
+            "L'île de Grobe"
         ],
         "step": 30,
         "type": "archi",
@@ -5490,10 +5480,9 @@
     },
     {
         "id": 557,
-        "name": "F\u00e9lyssion la Gourmande",
+        "name": "Fanjo le Pilote Fantôme",
         "zones": [
-            "Dents de Pierre",
-            "Village des Kanigs"
+            "L'île de Grobe"
         ],
         "step": 30,
         "type": "archi",
@@ -5501,10 +5490,9 @@
     },
     {
         "id": 558,
-        "name": "Kanibi\u00e8re l'Encord\u00e9e",
+        "name": "Fanimyl l'Acuité Fantôme",
         "zones": [
-            "Dents de Pierre",
-            "Village des Kanigs"
+            "L'île de Grobe"
         ],
         "step": 30,
         "type": "archi",
@@ -5514,7 +5502,7 @@
         "id": 559,
         "name": "Kanasukr le Mielleux",
         "zones": [
-            "Routes Rocailleuses"
+            "Plaines"
         ],
         "step": 30,
         "type": "archi",
@@ -5542,9 +5530,9 @@
     },
     {
         "id": 562,
-        "name": "Bonpake le Chavireur",
+        "name": "Pangraive le Militant",
         "zones": [
-            "Terrdala"
+            "Pandala"
         ],
         "step": 30,
         "type": "archi",
@@ -5572,9 +5560,9 @@
     },
     {
         "id": 565,
-        "name": "Larvaloeil l'\u00c9mue",
+        "name": "Dragoo le Cramoisi",
         "zones": [
-            "Champs de Cania"
+            "Dragoeufs"
         ],
         "step": 30,
         "type": "archi",
@@ -5582,9 +5570,9 @@
     },
     {
         "id": 566,
-        "name": "Souristiti l'Immortalis\u00e9e",
+        "name": "Dragtonien le Malvoyant",
         "zones": [
-            "Champs de Cania"
+            "Dragoeufs"
         ],
         "step": 30,
         "type": "archi",
@@ -5592,9 +5580,9 @@
     },
     {
         "id": 567,
-        "name": "Bourde le Maladroit",
+        "name": "Dragma le Bouillant",
         "zones": [
-            "Champs de Cania"
+            "Dragoeufs"
         ],
         "step": 30,
         "type": "archi",
@@ -5602,9 +5590,9 @@
     },
     {
         "id": 568,
-        "name": "Fouflay le Retomb\u00e9",
+        "name": "Dragoeth le Penseur",
         "zones": [
-            "Routes Rocailleuses"
+            "Dragoeufs"
         ],
         "step": 30,
         "type": "archi",
@@ -5632,9 +5620,9 @@
     },
     {
         "id": 571,
-        "name": "Lichangora l'Immacul\u00c9e",
+        "name": "Bramin le Bicéphale",
         "zones": [
-            "Aerdala"
+            "Pandala"
         ],
         "step": 31,
         "type": "archi",
@@ -5663,7 +5651,7 @@
     },
     {
         "id": 574,
-        "name": "Inopenope le N\u00e9gatif",
+        "name": "Kitsoupopulère le Généreux",
         "zones": [
             "Aerdala"
         ],
@@ -5683,9 +5671,9 @@
     },
     {
         "id": 576,
-        "name": "T\u00e9ton\u00e9e la Plantureuse",
+        "name": "Bulgig le Danseur",
         "zones": [
-            "Terrdala"
+            "Pandala"
         ],
         "step": 31,
         "type": "archi",
@@ -5773,9 +5761,9 @@
     },
     {
         "id": 585,
-        "name": "Rooroku l'Imposant",
+        "name": "Bambono le Divin",
         "zones": [
-            "Aerdala"
+            "Pandala"
         ],
         "step": 31,
         "type": "archi",
@@ -6002,7 +5990,7 @@
     },
     {
         "id": 607,
-        "name": "P\u00e9tarfoutu le Mouill\u00e9",
+        "name": "Soryonara le Poli",
         "zones": [
             "Feudala"
         ],
@@ -6012,9 +6000,9 @@
     },
     {
         "id": 608,
-        "name": "Fangshui la Dysorthographi\u00e9e",
+        "name": "Kitsoufre l'Explosif",
         "zones": [
-            "Aerdala"
+            "Pandala"
         ],
         "step": 32,
         "type": "archi",
@@ -6022,7 +6010,7 @@
     },
     {
         "id": 609,
-        "name": "Bigbadaboum l'\u00e9l\u00e9mentaire",
+        "name": "Mahoku le Botté",
         "zones": [
             "Feudala"
         ],
@@ -6147,7 +6135,7 @@
     },
     {
         "id": 621,
-        "name": "Crachefouxtre le Surpris",
+        "name": "YokaiKoral le Duel",
         "zones": [
             "Feudala"
         ],
@@ -6177,9 +6165,9 @@
     },
     {
         "id": 624,
-        "name": "Jiankor le Radoteur",
+        "name": "Fansissla l'âne",
         "zones": [
-            "Cimeti\u00e8re de Grobe"
+            "L'île de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -6187,9 +6175,9 @@
     },
     {
         "id": 625,
-        "name": "Onabu\u00e9mang\u00e9 la Rassasi\u00e9e",
+        "name": "Fanstatik l'Etonnant",
         "zones": [
-            "Cimeti\u00e8re de Grobe"
+            "L'île de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -6229,9 +6217,9 @@
     },
     {
         "id": 629,
-        "name": "Tambouille le Gastronome",
+        "name": "Fandouich l'Hautain",
         "zones": [
-            "Cimeti\u00e8re de Grobe"
+            "L'île de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -6239,9 +6227,9 @@
     },
     {
         "id": 630,
-        "name": "Tsuc\u00e9koi la Colporteuse",
+        "name": "Fanhopruno le Gourmet",
         "zones": [
-            "Cimeti\u00e8re de Grobe"
+            "L'île de Grobe"
         ],
         "step": 33,
         "type": "archi",
@@ -6249,9 +6237,9 @@
     },
     {
         "id": 631,
-        "name": "Tronquette la R\u00e9duite",
+        "name": "Pandive le végétarien",
         "zones": [
-            "Feudala"
+            "Pandala"
         ],
         "step": 34,
         "type": "archi",
@@ -6270,9 +6258,9 @@
     },
     {
         "id": 633,
-        "name": "Bakaglace le Congel\u00e9",
+        "name": "Fanlagoel le Comique",
         "zones": [
-            "Mont des Tombeaux"
+            "L'île de Grobe"
         ],
         "step": 34,
         "type": "archi",
@@ -6280,9 +6268,9 @@
     },
     {
         "id": 634,
-        "name": "Kaonucl\u00e9air l'Instable",
+        "name": "Fantassein le Soldat",
         "zones": [
-            "Mont des Tombeaux"
+            "L'île de Grobe"
         ],
         "step": 34,
         "type": "archi",
@@ -6290,9 +6278,9 @@
     },
     {
         "id": 635,
-        "name": "Madgang le Docteur",
+        "name": "Fanburn le Viril",
         "zones": [
-            "Mont des Tombeaux"
+            "L'île de Grobe"
         ],
         "step": 34,
         "type": "archi",
@@ -6300,9 +6288,9 @@
     },
     {
         "id": 636,
-        "name": "Tsumani l'Inondeur",
+        "name": "Fanssiss la Brêle",
         "zones": [
-            "Mont des Tombeaux"
+            "L'île de Grobe"
         ],
         "step": 34,
         "type": "archi",
