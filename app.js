@@ -6,6 +6,7 @@
     function AppCtrl($http, locker) {
         var vm = this;
 
+        vm.simultaneous = locker.get('simultaneous');
         vm.totalSteps = 34;
         vm.sorting = locker.get('sorting', 0);
         vm.saveData = locker.get('save');
@@ -18,24 +19,35 @@
                 return false;
             }
 
-            return vm.saveData.indexOf(monster.id) >= 0;
+            return vm.saveData.find(el => el[0] === monster.id) && vm.saveData.find(el => el[0] === monster.id)[1]  >= vm.simultaneous;
         };
 
-        vm.toggleMonster = function(monster, val) {
+        vm.saveMonster = function(monster, val) {
             vm.saveData = locker.get('save', []);
-
-            if (vm.saveData.indexOf(monster.id) >= 0) {
-                if (angular.isUndefined(val) || val === false) {
-                    vm.saveData.splice(vm.saveData.indexOf(monster.id), 1);
-                }
+            if (vm.saveData.find(savedMonster => savedMonster[0] === monster.id)) {
+                vm.saveData[vm.saveData.findIndex(savedMonster => savedMonster[0] === monster.id)][1] = monster.owned;
             } else {
-                if (angular.isUndefined(val) || val === true) {
-                    vm.saveData.push(monster.id);
-                }
+                vm.saveData.push([monster.id, monster.owned]);
             }
 
             locker.put('save', vm.saveData);
         };
+
+        vm.increase = function(monster) {
+            monster.owned++;
+            vm.saveMonster(monster);
+        };
+
+        vm.decrease = function(monster) {
+            if(monster.owned > 0) {
+                monster.owned--;
+            }
+            vm.saveMonster(monster);
+        };
+
+        vm.saveSimultaneous = function () {
+            locker.put('simultaneous', vm.simultaneous)
+        }
 
         vm.owned = function(type, zone, step) {
             if (!vm.monsters) {
@@ -94,13 +106,11 @@
         };
 
         vm.load = function() {
-            vm.saveData = vm.loadData;
-
-            locker.put('save', vm.loadData.split(',').map(function(id) {
-                return parseInt(id);
+            locker.put('save', vm.loadData.match(/\d+,\d+/gm).map(function(id) {
+                return [+id.split(',')[0],+id.split(',')[1]];
             }));
 
-            vm.loadData = null;
+            vm.saveData = locker.get('save');
         };
 
         vm.toggleZone = function(zone) {
@@ -118,15 +128,16 @@
         };
 
         vm.toggleStep = function(step) {
-            var newVal = true;
+            var newVal = vm.simultaneous;
 
             if (vm.owned(false, false, step) == vm.total(false, false, step)) {
-                newVal = false;
+                newVal = 0;
             }
 
             vm.monsters.map(function(monster) {
                 if (monster.step == step) {
-                    vm.toggleMonster(monster, newVal);
+                    monster.owned = newVal;
+                    vm.saveMonster(monster);
                 }
             });
         };
@@ -187,6 +198,9 @@
 
         $http.get('monsters.json').then(function(res) {
             vm.monsters = res.data;
+            vm.monsters.forEach(monster => {
+                monster.owned = vm.saveData?.find(el => el[0] === monster.id) ? vm.saveData.find(el => el[0] === monster.id)[1] : 0
+            })
 
             vm.zones = {};
             vm.steps = [];
