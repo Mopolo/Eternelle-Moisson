@@ -110,6 +110,13 @@
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="col-xs-3">
+                        Nombre de chasses simultanées :
+                        <input class="form-control" type="number" ng-model="appCtrl.simultaneous" ng-change="appCtrl.saveSimultaneous()">
+                    </div>
+                </div>
+
                 <div ng-if="appCtrl.sorting == 0">
 
                     <div>
@@ -123,7 +130,7 @@
                       <table class="table table-stripped table-hover table-bordered">
                         <thead>
                             <tr>
-                                <th style="width:50px;">Possédé</th>
+                                <th style="width:100px;">Possédé</th>
                                 <th>Nom</th>
                                 <th>Étape</th>
                                 <th>Zones</th>
@@ -131,8 +138,8 @@
                         </thead>
 
                         <tbody>
-                            <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name'" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)" ng-hide="appCtrl.displayOwnedMonsters && appCtrl.isOwned(monster)">
-                                <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
+                            <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name'" ng-class="{success: appCtrl.isOwned(monster)}" ng-hide="appCtrl.displayOwnedMonsters && appCtrl.isOwned(monster)">
+                                <td><button class="btn btn-info btn-xs" ng-click="appCtrl.increase(monster)"><i class="glyphicon glyphicon-plus"></i></button> {{ monster.owned ? monster.owned : 0 }} <button class="btn btn-info btn-xs" ng-click="appCtrl.decrease(monster)"><i class="glyphicon glyphicon-minus"></i></button></td>
                                 <td>
                                     <i class="glyphicon glyphicon-star" ng-if="monster.type == 'boss'"></i>
                                     <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>
@@ -167,7 +174,7 @@
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
-                                    <th style="width:50px;">Possédé</th>
+                                    <th style="width:100px;">Possédé</th>
                                     <th>Nom</th>
                                     <th>Étape</th>
                                     <th>Zones</th>
@@ -175,8 +182,8 @@
                             </thead>
 
                             <tbody>
-                                <tr ng-repeat="monster in monsters" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)">
-                                    <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
+                                <tr ng-repeat="monster in monsters" ng-class="{success: appCtrl.isOwned(monster)}">
+                                    <td><button class="btn btn-info btn-xs" ng-click="appCtrl.increase(monster)"><i class="glyphicon glyphicon-plus"></i></button> {{ monster.owned ? monster.owned : 0 }} <button class="btn btn-info btn-xs" ng-click="appCtrl.decrease(monster)"><i class="glyphicon glyphicon-minus"></i></button></td>
                                     <td>
                                         <i class="glyphicon glyphicon-star" ng-if="monster.type == 'boss'"></i>
                                         <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>
@@ -211,15 +218,15 @@
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
-                                    <th style="width:50px;">Possédé</th>
+                                    <th style="width:100px;">Possédé</th>
                                     <th>Nom</th>
                                     <th>Zones</th>
                                 </tr>
                             </thead>
 
                             <tbody>
-                                <tr ng-repeat="monster in monsters" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)">
-                                    <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
+                                <tr ng-repeat="monster in monsters" ng-class="{success: appCtrl.isOwned(monster)}">
+                                    <td><button class="btn btn-info btn-xs" ng-click="appCtrl.increase(monster)"><i class="glyphicon glyphicon-plus"></i></button> {{ monster.owned ? monster.owned : 0 }} <button class="btn btn-info btn-xs" ng-click="appCtrl.decrease(monster)"><i class="glyphicon glyphicon-minus"></i></button></td>
                                     <td>
                                         <i class="glyphicon glyphicon-star" ng-if="monster.type == 'boss'"></i>
                                         <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>
