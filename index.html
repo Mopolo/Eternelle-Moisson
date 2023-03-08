@@ -118,34 +118,38 @@
                                 <input type="checkbox" ng-model="appCtrl.displayOwnedMonsters" ng-change="appCtrl.toggleOwnedMonsters()" /> Masquer les monstres possédés
                                 </label>
                             </div>
-                      </div>
+                        </div>
 
-                      <table class="table table-stripped table-hover table-bordered">
-                        <thead>
-                            <tr>
-                                <th style="width:50px;">Possédé</th>
-                                <th>Nom</th>
-                                <th>Étape</th>
-                                <th>Zones</th>
-                            </tr>
-                        </thead>
+                        <div class="form-group">
+                            <input ng-model="search.$" style="width:100%" placeholder="Rechercher" class="form-control"/>
+                        </div>
 
-                        <tbody>
-                            <input ng-model="search.$" style="width:100%" placeholder="Rechercher">
-                            <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name' | filter:search" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)" ng-hide="appCtrl.displayOwnedMonsters && appCtrl.isOwned(monster)">
-                                <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
-                                <td>
-                                    <i class="glyphicon glyphicon-star" ng-if="monster.type == 'boss'"></i>
-                                    <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>
-                                    {{ monster.name }}
-                                </td>
-                                <td>{{ monster.step }}</td>
-                                <td>
-                                    <span class="label label-primary" ng-repeat="zone in monster.zones">{{ zone }}</span>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
+                        <table class="table table-stripped table-hover table-bordered">
+                            <thead>
+                                <tr>
+                                    <th style="width:50px;">Possédé</th>
+                                    <th>Nom</th>
+                                    <th>Étape</th>
+                                    <th>Zones</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name' | filter:search" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)" ng-hide="appCtrl.displayOwnedMonsters && appCtrl.isOwned(monster)">
+                                    <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
+                                    <td>
+                                        <i class="glyphicon glyphicon-star" ng-if="monster.type == 'boss'"></i>
+                                        <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>
+                                        {{ monster.name }}
+                                    </td>
+                                    <td>{{ monster.step }}</td>
+                                    <td>
+                                        <span class="label label-primary" ng-repeat="zone in monster.zones">{{ zone }}</span>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
 
                 </div>
 
