@@ -124,6 +124,16 @@
                             <input ng-model="search.$" style="width:100%" placeholder="Rechercher" class="form-control"/>
                         </div>
 
+                        <!-- Selecteur de type -->
+                        <select class="form-group" ng-model="appCtrl.selectedType">
+                            <option value="">Tous les types</option>
+                            <option value="monster">Monstres</option>
+                            <option value="archi">Archi-monstres</option>
+                            <option value="boss">Boss de donjons</option>
+
+                        </select>
+
+
                         <table class="table table-stripped table-hover table-bordered">
                             <thead>
                                 <tr>
@@ -135,8 +145,8 @@
                             </thead>
 
                             <tbody>
-                                <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name' | filter:search" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)" ng-hide="appCtrl.displayOwnedMonsters && appCtrl.isOwned(monster)">
-                                    <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
+                                <!-- Modification du ng-repeat avec l'ajout du tri par type -->
+                                <tr ng-repeat="monster in appCtrl.monsters | orderBy:'name' | filter:search | filter:appCtrl.filterByType" ng-class="{success: appCtrl.isOwned(monster)}" ng-click="appCtrl.toggleMonster(monster)" ng-hide="appCtrl.displayOwnedMonsters && appCtrl.isOwned(monster)">                                    <td><input type="checkbox" ng-checked="appCtrl.isOwned(monster)" /></td>
                                     <td>
                                         <i class="glyphicon glyphicon-star" ng-if="monster.type == 'boss'"></i>
                                         <i class="glyphicon glyphicon-fire" ng-if="monster.type == 'archi'"></i>

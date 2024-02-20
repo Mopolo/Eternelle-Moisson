@@ -12,6 +12,13 @@
         vm.displayOwnedMonsters = locker.get('displayOwnedMonsters', true);
         vm.displayFinishedZones = locker.get('displayFinishedZones', true);
         vm.displayFinishedSteps = locker.get('displayFinishedSteps', true);
+        // Initialisation de la variable selectedType
+        vm.selectedType = '';
+
+        // Fonction pour filtrer les monstres par type
+        vm.filterByType = function(monster) {
+            return vm.selectedType === '' || monster.type === vm.selectedType;
+        };
 
         vm.isOwned = function(monster) {
             if (!vm.saveData || !monster) {
