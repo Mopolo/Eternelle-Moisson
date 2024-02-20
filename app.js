@@ -12,6 +12,13 @@
         vm.displayOwnedMonsters = locker.get('displayOwnedMonsters', true);
         vm.displayFinishedZones = locker.get('displayFinishedZones', true);
         vm.displayFinishedSteps = locker.get('displayFinishedSteps', true);
+        // Initialisation de la variable selectedType
+        vm.selectedType = '';
+
+        // Fonction pour filtrer les monstres par type
+        vm.filterByType = function(monster) {
+            return vm.selectedType === '' || monster.type === vm.selectedType;
+        };
 
         vm.isOwned = function(monster) {
             if (!vm.saveData || !monster) {
@@ -168,10 +175,37 @@
             locker.put('displayFinishedSteps', vm.displayFinishedSteps);
         }
 
+        // Fonction pour charger les monstres
+        vm.loadMonsters = function() {
+            $http.get('monsters.json').then(function(res) {
+                vm.monsters = res.data;
+                vm.zones = {};
+                vm.steps = [];
+    
+                angular.forEach(vm.monsters, function(monster) {
+                    angular.forEach(monster.zones, function(zone) {
+                        if (angular.isUndefined(vm.zones[zone])) {
+                            vm.zones[zone] = [];
+                        }
+                        vm.zones[zone].push(monster);
+                    });
+    
+                    if (angular.isUndefined(vm.steps[monster.step])) {
+                        vm.steps[monster.step] = [];
+                    }
+                    vm.steps[monster.step].push(monster);
+                });
+            });
+        };
+    
+        // Appelez cette fonction pour initialiser les monstres
+        vm.loadMonsters();
+    
         vm.resetAll = function() {
             if (confirm('Dernière chance !')) {
                 locker.clean();
-
+    
+                // Réinitialisez vos variables ici
                 vm.sorting = 0;
                 vm.saveData = null;
                 vm.displayOwnedMonsters = true;
@@ -180,8 +214,11 @@
                 vm.zones = {};
                 vm.steps = [];
                 vm.monsters = [];
-
+    
                 $('#saveModal').modal('hide');
+    
+                // Rechargez les monstres après la réinitialisation
+                vm.loadMonsters();
             }
         };
 
